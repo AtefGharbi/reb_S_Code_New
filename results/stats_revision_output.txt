@@ -1,0 +1,129 @@
+
+== Table 3 (mean / sd) ==
+                                   nominal              unaware             reactive                B2+BD                 rebs
+total_cost             -133.6032 ± 23.8343  -134.0331 ± 23.4657  -132.4776 ± 23.5837  -132.4767 ± 23.5846  -127.7436 ± 23.5209
+peak_reduction_pct        3.3626 ± 12.3568     3.3604 ± 12.3420     2.7659 ± 12.4576     2.7785 ± 12.4664     1.9821 ± 12.3819
+completion_rate_pct      100.0000 ± 0.0000     82.5000 ± 8.5070     85.0000 ± 6.8825     99.0000 ± 3.0779     97.5000 ± 5.5012
+bess_efc                   2.0169 ± 0.0047      2.0193 ± 0.0060      1.9991 ± 0.0211      1.9991 ± 0.0211      1.9436 ± 0.0300
+degr_cost                  0.3227 ± 0.0008      0.3231 ± 0.0010      0.3199 ± 0.0032      0.3199 ± 0.0032      0.3106 ± 0.0046
+v2g_revenue               88.9192 ± 5.1869     88.8918 ± 5.1541     88.8835 ± 5.1519     88.8668 ± 5.1482     88.7823 ± 4.9393
+constraint_violations      0.0000 ± 0.0000      1.7500 ± 0.8507      1.5000 ± 0.6882      0.1000 ± 0.3078      0.2500 ± 0.5501
+
+== Table 4 Holm family ==
+                                   label       mean        lo         hi   W          p   m      dz  n_diff     p_holm
+0   completion_rate_pct REB-S vs unaware         15    10.842     19.158   0 7.6294e-06  18  1.6882      18 1.5259e-05
+1  completion_rate_pct REB-S vs reactive       12.5    8.2389     16.761 5.5 8.3923e-05  18  1.3729      18 8.3923e-05
+2            total_cost REB-S vs unaware     6.2895    5.3133     7.2658   0 1.9073e-06  20  3.0152      20 1.5259e-05
+3           total_cost REB-S vs reactive     4.7341    3.7994     5.6687   0 1.9073e-06  20  2.3705      20 1.5259e-05
+4              bess_efc REB-S vs unaware  -0.075672 -0.090416  -0.060927   0 1.9073e-06  20 -2.4019      20 1.5259e-05
+5             bess_efc REB-S vs reactive  -0.055532  -0.06547  -0.045594   0 1.9073e-06  20 -2.6152      20 1.5259e-05
+6             degr_cost REB-S vs unaware  -0.012469 -0.014775  -0.010163   0 1.9073e-06  20 -2.5304      20 1.5259e-05
+7            degr_cost REB-S vs reactive -0.0093071 -0.011168 -0.0074462   0 1.9073e-06  20 -2.3407      20 1.5259e-05
+
+== Table 4 dagger: REB-S vs B2+BD ==
+                 label       mean        lo         hi  W          p   m       dz  n_diff
+0  completion_rate_pct       -1.5   -3.2146    0.21456  0       0.25   3 -0.40945       3
+1           total_cost     4.7331    3.7983      5.668  0 1.9073e-06  20   2.3695      20
+2             bess_efc  -0.055532  -0.06547  -0.045594  0 1.9073e-06  20  -2.6152      20
+3            degr_cost -0.0093071 -0.011168 -0.0074462  0 1.9073e-06  20  -2.3407      20
+
+== Table 4 reference: B1 vs nominal ==
+                 label       mean         lo         hi  W          p   m       dz  n_diff
+0  completion_rate_pct      -17.5    -21.481    -13.519  0 1.9073e-06  20  -2.0571      20
+1           total_cost   -0.42987   -0.85758 -0.0021606 55   0.063723  20 -0.47038      20
+2             bess_efc  0.0023748 0.00041179  0.0043377  2   0.011719   9  0.56619       9
+3            degr_cost 0.00039508 7.5268e-05 0.00071489  2   0.011719   9  0.57816       9
+
+== TOST two-stage REB-S - B2+BD (completion) ==
+{'p_lower': np.float64(0.00020564693568193794), 'p_upper': np.float64(9.461057896647566e-08), 'p_tost': np.float64(0.00020564693568193794), 'ci90': (np.float64(-2.9164675961602384), np.float64(-0.08353240383976135))}
+
+== B2+BD vs B2 per-seed |diff| max; V2G differing seeds ==
+{'total_cost': 0.01855324011636128, 'bess_efc': 3.0100002490485167e-09, 'v2g_revenue': 0.33537606189611324}; v2g differs on 1 seeds
+
+== Appendix B1 ablation_raw.csv ==
+                                              label        mean          lo         hi   W         p   m        dz  n_diff
+0     Detector only (all off) | completion_rate_pct         -15     -21.079    -8.9206   0 0.0039062   9    -1.765       9
+1              Detector only (all off) | total_cost      -6.602     -8.0818    -5.1222   0 0.0019531  10   -3.1915      10
+2                Detector only (all off) | bess_efc    0.074539    0.051579   0.097499   0 0.0019531  10    2.3224      10
+3   Detector only (all off) | constraint_violations         1.5     0.89206     2.1079   0 0.0039062   9     1.765       9
+4       No risk margin/derate | completion_rate_pct          -7     -12.889    -1.1107   0    0.0625   5  -0.85027       5
+5                No risk margin/derate | total_cost     -6.0773     -7.4659    -4.6888   0 0.0019531  10    -3.131      10
+6                  No risk margin/derate | bess_efc    0.073066    0.051121   0.095011   0 0.0019531  10    2.3818      10
+7     No risk margin/derate | constraint_violations         0.7     0.11107     1.2889   0    0.0625   5   0.85027       5
+8         No robust departure | completion_rate_pct         -13     -18.889    -7.1107   0 0.0078125   8   -1.5791       8
+9                  No robust departure | total_cost   0.0010172  -0.0082276   0.010262  21   0.91016   9  0.078712       9
+10                   No robust departure | bess_efc -1.6269e-05 -0.00016511 0.00013257  16   0.84375   8 -0.078193       8
+11      No robust departure | constraint_violations         1.3     0.71107     1.8889   0 0.0078125   8    1.5791       8
+12    No state reconstruction | completion_rate_pct           0           0          0 NaN       NaN   0       NaN       0
+13             No state reconstruction | total_cost    -0.52568     -1.1621    0.11069  10  0.083984  10  -0.59093      10
+14               No state reconstruction | bess_efc   0.0014783  -0.0010708  0.0040274   7    0.5625   6   0.41486       6
+15  No state reconstruction | constraint_violations           0           0          0 NaN       NaN   0       NaN       0
+
+== Appendix B1 soc_only_ablation_raw.csv ==
+                                                           label      mean         lo         hi  W         p   m       dz  n_diff
+0     Margin + reconstruction (full REB-S) | completion_rate_pct         2    -1.0162     5.0162  0       0.5   2  0.47434       2
+1              Margin + reconstruction (full REB-S) | total_cost    6.7031     5.0753     8.3309  0 0.0019531  10   2.9457      10
+2                Margin + reconstruction (full REB-S) | bess_efc -0.083033  -0.099058  -0.067009  0 0.0019531  10  -3.7068      10
+3   Margin + reconstruction (full REB-S) | constraint_violations      -0.2   -0.50162    0.10162  0       0.5   2 -0.47434       2
+4          Margin only (no reconstruction) | completion_rate_pct         2    -1.0162     5.0162  0       0.5   2  0.47434       2
+5                   Margin only (no reconstruction) | total_cost    6.2247     4.7795     7.6699  0 0.0019531  10   3.0812      10
+6                     Margin only (no reconstruction) | bess_efc -0.080931  -0.096587  -0.065274  0 0.0019531  10  -3.6978      10
+7        Margin only (no reconstruction) | constraint_violations      -0.2   -0.50162    0.10162  0       0.5   2 -0.47434       2
+8          Reconstruction only (no margin) | completion_rate_pct        -4    -9.0018     1.0018  0      0.25   3 -0.57208       3
+9                   Reconstruction only (no margin) | total_cost   0.47511    -0.2423     1.1925 16   0.27539  10  0.47375      10
+10                    Reconstruction only (no margin) | bess_efc -0.002082 -0.0049255 0.00076163  6    0.4375   6 -0.52376       6
+11       Reconstruction only (no margin) | constraint_violations       0.4   -0.10018    0.90018  0      0.25   3  0.57208       3
+
+== Appendix C1 ==
+               comp     sd    cost    efc  viol
+margin derate                                  
+0.03   0.3       84 7.5394 -132.89 1.9991   1.6
+       0.6       84 7.5394 -131.21  1.979   1.6
+0.05   0.3       85 6.8825 -132.48 1.9991   1.5
+       0.6       85 6.8825  -130.8  1.979   1.5
+0.08   0.3     85.5 6.8633 -131.86 1.9991  1.45
+       0.6     85.5 6.8633 -130.19  1.979  1.45
+0.12   0.3       87 5.7124 -131.04 1.9991   1.3
+       0.6       87 5.7124 -129.37  1.979   1.3
+
+== REB-S vs B2 (0.12/60%) completion ==
+{'label': '', 'mean': np.float64(10.5), 'lo': np.float64(6.34851935416695), 'hi': np.float64(14.65148064583305), 'W': np.float64(6.5), 'p': 0.0001983642578125, 'm': 17, 'dz': np.float64(1.1837105087654975), 'n_diff': 17}
+
+== Appendix D1/D2 ==
+   direction  eps        rebs                             vs0                             vsB1  share        b2bd                       vsBD cost_shift
+0      early    1  97.0 ± 6.6           -0.5 [-1.5, +0.5] p=1  +14.5 [+10.6, +18.4] p=7.63e-06  82.9%  99.0 ± 3.1   -2.0 [-4.4, +0.4] p=0.25      +0.00
+1      early    2  97.0 ± 6.6           -0.5 [-1.5, +0.5] p=1  +14.5 [+10.6, +18.4] p=7.63e-06  82.9%  99.0 ± 3.1   -2.0 [-4.4, +0.4] p=0.25      +0.03
+2      early    4  96.5 ± 8.1           -1.0 [-3.1, +1.1] p=1  +14.0 [+10.2, +17.8] p=7.63e-06  80.0%  99.0 ± 3.1   -2.5 [-5.9, +0.9] p=0.25      +0.06
+3       late    1  87.5 ± 8.5   -10.0 [-13.7, -6.3] p=6.1e-05       +5.0 [+1.1, +8.9] p=0.0273  28.6%  86.5 ± 8.1  +1.0 [-2.0, +4.0] p=0.727      -0.05
+4       late    2  85.5 ± 8.3  -12.0 [-15.9, -8.1] p=1.53e-05        +3.0 [-0.4, +6.4] p=0.148  17.1%  85.0 ± 7.6      +0.5 [-2.3, +3.3] p=1      -0.05
+5       late    4  84.0 ± 7.5  -13.5 [-17.3, -9.7] p=7.63e-06        +1.5 [-1.6, +4.6] p=0.531   8.6%  84.5 ± 7.6      -0.5 [-2.9, +1.9] p=1      -0.00
+6  symmetric    1  95.0 ± 6.9      -2.5 [-4.6, -0.4] p=0.0625   +12.5 [+8.5, +16.5] p=3.05e-05  71.4%  96.0 ± 6.0  -1.0 [-3.1, +1.1] p=0.625      +0.01
+7  symmetric    2  93.0 ± 6.6     -4.5 [-6.9, -2.1] p=0.00391    +10.5 [+6.6, +14.4] p=6.1e-05  60.0%  93.5 ± 6.7      -0.5 [-2.9, +1.9] p=1      +0.01
+8  symmetric    4  92.0 ± 7.0     -5.5 [-8.3, -2.7] p=0.00195    +9.5 [+5.6, +13.4] p=0.000122  54.3%  93.0 ± 6.6  -1.0 [-3.1, +1.1] p=0.625      +0.05
+
+== eps=0 check vs Table 3 ==
+REB-S 97.5 cost -127.7436; B2+BD 99.0
+
+== Table 10 paired comparisons ==
+                                               label    mean        lo       hi  W          p   m       dz  n_diff
+0                    disconnect B1 cost vs two-stage -2.6494   -3.3038  -1.9949  0 1.9073e-06  20  -1.8945      20
+1                    disconnect B2 cost vs two-stage -2.6548    -3.307  -2.0027  0 1.9073e-06  20  -1.9051      20
+2                         disconnect REB-S - B1 cost  8.9389    7.8447   10.033  0 1.9073e-06  20   3.8233      20
+3                model mismatch: REB-S cost vs exact  4.2177    3.2921   5.1433  0 1.9073e-06  20   2.1326      20
+4                 model mismatch: REB-S - B2+BD cost  7.9162    6.4632   9.3692  0 1.9073e-06  20   2.5498      20
+5          model mismatch: REB-S completion vs exact     0.5  -0.54651   1.5465  0          1   1  0.22361       1
+6              mismatch + noise: REB-S cost vs exact  6.3245     4.938    7.711  0 1.9073e-06  20   2.1348      20
+7               mismatch + noise: REB-S - B2+BD cost  10.023    8.3512   11.695  0 1.9073e-06  20    2.806      20
+8        mismatch + noise: REB-S completion vs exact     0.5  -0.54651   1.5465  0          1   1  0.22361       1
+9         noisy online features: REB-S cost vs exact  2.1236    1.0529   3.1944  0 1.9073e-06  20  0.92821      20
+10         noisy online features: REB-S - B2+BD cost  6.8568    5.3181   8.3955  0 1.9073e-06  20   2.0856      20
+11  noisy online features: REB-S completion vs exact    -0.5   -1.5465  0.54651  0          1   1 -0.22361       1
+12                rolling B1 completion vs two-stage      -6   -10.897  -1.1032  8    0.02832  11 -0.57345      11
+13                rolling B2 completion vs two-stage    -3.5   -6.2479 -0.75209  5   0.039062   9 -0.59611       9
+14             rolling REB-S completion vs two-stage     2.5 -0.074639   5.0746  0      0.125   4  0.45445       4
+15             rolling B2+BD completion vs two-stage    -2.5   -5.4891  0.48905 10    0.17969   9 -0.39144       9
+16                  rolling REB-S - B2+BD completion     3.5    1.2097   5.7903  0   0.015625   7  0.71522       7
+17                        rolling REB-S - B2+BD cost  5.0697    4.0501   6.0893  0 1.9073e-06  20    2.327      20
+
+== TOST rolling REB-S - B2+BD ==
+{'p_lower': np.float64(1.2939211884854046e-07), 'p_upper': np.float64(0.09320571772923983), 'p_tost': np.float64(0.09320571772923983), 'ci90': (np.float64(1.6079079892287251), np.float64(5.392092010771275))}

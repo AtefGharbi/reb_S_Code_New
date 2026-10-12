@@ -1,0 +1,84 @@
+repro rolling B1 max |dcost| 0.0 max |dcompl| 0.0
+repro rolling B2+BD max |dcost| 0.0 max |dcompl| 0.0
+repro rolling REB-S max |dcost| 0.0 max |dcompl| 0.0
+
+== X1 rolling x nominal error ==
+rolling, eps 0               REB-S 100.0± 0.0  B2+BD  96.5± 4.9  | REB-S-B2+BD +3.500 [+1.210, +5.790]; W=0.0; p=0.0156; m=7  | REB-S-B1 +23.500 [+19.132, +27.868]; W=0.0; p=0.0000; m=20  | B2+BD-B1 +20.000 [+14.964, +25.036]; W=0.0; p=0.0000; m=19  | dcost +5.070 [+4.050, +6.089]; W=0.0; p=0.0000; m=20
+rolling, symmetric eps 1     REB-S  98.0± 4.1  B2+BD  93.5± 7.5  | REB-S-B2+BD +4.500 [+0.636, +8.364]; W=4.5; p=0.0352; m=9  | REB-S-B1 +21.500 [+17.404, +25.596]; W=0.0; p=0.0000; m=20  | B2+BD-B1 +17.000 [+11.941, +22.059]; W=0.0; p=0.0000; m=18  | dcost +4.657 [+3.636, +5.679]; W=0.0; p=0.0000; m=20
+rolling, symmetric eps 2     REB-S  96.0± 6.8  B2+BD  92.5± 7.9  | REB-S-B2+BD +3.500 [+0.752, +6.248]; W=5.0; p=0.0391; m=9  | REB-S-B1 +19.500 [+15.349, +23.651]; W=0.0; p=0.0000; m=20  | B2+BD-B1 +16.000 [+10.873, +21.127]; W=0.0; p=0.0000; m=17  | dcost +4.724 [+3.584, +5.864]; W=1.0; p=0.0000; m=20
+rolling, symmetric eps 4     REB-S  94.0± 6.8  B2+BD  91.5± 8.1  | REB-S-B2+BD +2.500 [-0.075, +5.075]; W=0.0; p=0.1250; m=4  | REB-S-B1 +17.500 [+12.976, +22.024]; W=0.0; p=0.0000; m=19  | B2+BD-B1 +15.000 [+10.320, +19.680]; W=0.0; p=0.0000; m=18  | dcost +4.681 [+3.488, +5.874]; W=1.0; p=0.0000; m=20
+rolling, late eps 1          REB-S  92.0± 8.9  B2+BD  85.0± 5.1  | REB-S-B2+BD +7.000 [+2.954, +11.046]; W=4.5; p=0.0044; m=12  | REB-S-B1 +15.500 [+10.137, +20.863]; W=0.0; p=0.0001; m=15  | B2+BD-B1 +8.500 [+4.696, +12.304]; W=0.0; p=0.0005; m=12  | dcost +5.256 [+4.175, +6.337]; W=1.0; p=0.0000; m=20
+rolling, late eps 2          REB-S  86.5± 9.9  B2+BD  84.5± 6.9  | REB-S-B2+BD +2.000 [-2.453, +6.453]; W=15.0; p=0.4805; m=9  | REB-S-B1 +10.000 [+5.198, +14.802]; W=0.0; p=0.0005; m=12  | B2+BD-B1 +8.000 [+3.814, +12.186]; W=0.0; p=0.0010; m=11  | dcost +5.130 [+4.151, +6.109]; W=0.0; p=0.0000; m=20
+rolling, late eps 4          REB-S  85.0± 9.5  B2+BD  82.5± 6.4  | REB-S-B2+BD +2.500 [-0.853, +5.853]; W=8.0; p=0.2344; m=8  | REB-S-B1 +8.500 [+4.404, +12.596]; W=0.0; p=0.0005; m=12  | B2+BD-B1 +6.000 [+2.815, +9.185]; W=0.0; p=0.0020; m=10  | dcost +5.186 [+4.225, +6.146]; W=0.0; p=0.0000; m=20
+B1 rolling 76.5
+
+== X2 degradation coefficient (re-optimised) ==
+two-stage, cdeg 0.025  B1: compl 82.5 cost -111.06 EFC 1.494 deg 22.59  B2+BD: compl 99.0 cost -109.52 EFC 1.494 deg 22.59  REB-S: compl 97.5 cost -104.88 EFC 1.492 deg 22.56
+   REB-S-B2+BD cost +4.642 [+3.709, +5.575]; W=0.0; p=0.0000; m=20  compl -1.500 [-3.215, +0.215]; W=0.0; p=0.2500; m=3  EFC -0.002 [-0.004, -0.000]; W=24.0; p=0.1465; m=13
+   REB-S-B1 compl +15.000 [+10.842, +19.158]; W=0.0; p=0.0000; m=18
+two-stage, cdeg 0.05   B1: compl 82.5 cost -88.48 EFC 1.494 deg 45.17  B2+BD: compl 99.0 cost -86.93 EFC 1.494 deg 45.17  REB-S: compl 97.5 cost -82.43 EFC 1.457 deg 44.10
+   REB-S-B2+BD cost +4.500 [+3.608, +5.392]; W=0.0; p=0.0000; m=20  compl -1.500 [-3.215, +0.215]; W=0.0; p=0.2500; m=3  EFC -0.036 [-0.050, -0.022]; W=3.0; p=0.0002; m=16
+   REB-S-B1 compl +15.000 [+10.842, +19.158]; W=0.0; p=0.0000; m=18
+two-stage, cdeg 0.1    B1: compl 81.5 cost -50.87 EFC 0.190 deg 11.44  B2+BD: compl 99.0 cost -49.87 EFC 0.190 deg 11.44  REB-S: compl 97.5 cost -48.59 EFC 0.190 deg 11.49
+   REB-S-B2+BD cost +1.274 [+0.491, +2.057]; W=28.0; p=0.0027; m=20  compl -1.500 [-3.215, +0.215]; W=0.0; p=0.2500; m=3  EFC +0.000 [-0.003, +0.004]; W=103.0; p=0.9563; m=20
+   REB-S-B1 compl +16.000 [+11.869, +20.131]; W=0.0; p=0.0000; m=19
+two-stage, cdeg 0.15   B1: compl 81.5 cost -45.15 EFC 0.190 deg 17.16  B2+BD: compl 99.0 cost -44.15 EFC 0.190 deg 17.16  REB-S: compl 97.5 cost -42.85 EFC 0.190 deg 17.24
+   REB-S-B2+BD cost +1.300 [+0.585, +2.015]; W=19.0; p=0.0006; m=20  compl -1.500 [-3.215, +0.215]; W=0.0; p=0.2500; m=3  EFC +0.000 [-0.003, +0.004]; W=103.0; p=0.9563; m=20
+   REB-S-B1 compl +16.000 [+11.869, +20.131]; W=0.0; p=0.0000; m=19
+rolling, cdeg 0.025    B1: compl 76.0 cost -108.66 EFC 1.495 deg 22.60  B2+BD: compl 96.5 cost -106.56 EFC 1.495 deg 22.59  REB-S: compl 99.0 cost -101.70 EFC 1.481 deg 22.41
+   REB-S-B2+BD cost +4.863 [+3.751, +5.974]; W=0.0; p=0.0000; m=20  compl +2.500 [-0.489, +5.489]; W=10.0; p=0.1797; m=9  EFC -0.014 [-0.026, -0.003]; W=32.0; p=0.0049; m=20
+   REB-S-B1 compl +23.000 [+19.250, +26.750]; W=0.0; p=0.0000; m=20
+rolling, cdeg 0.05     B1: compl 77.0 cost -86.97 EFC 1.466 deg 44.34  B2+BD: compl 96.5 cost -84.74 EFC 1.466 deg 44.34  REB-S: compl 99.5 cost -79.24 EFC 1.370 deg 41.53
+   REB-S-B2+BD cost +5.497 [+4.375, +6.620]; W=0.0; p=0.0000; m=20  compl +3.000 [+0.327, +5.673]; W=4.5; p=0.0703; m=8  EFC -0.096 [-0.125, -0.067]; W=0.0; p=0.0000; m=20
+   REB-S-B1 compl +22.500 [+17.976, +27.024]; W=0.0; p=0.0000; m=19
+rolling, cdeg 0.1      B1: compl 75.5 cost -51.13 EFC 0.190 deg 11.50  B2+BD: compl 97.0 cost -49.87 EFC 0.190 deg 11.50  REB-S: compl 100.0 cost -48.27 EFC 0.191 deg 11.54
+   REB-S-B2+BD cost +1.601 [+1.157, +2.045]; W=3.0; p=0.0000; m=20  compl +3.000 [+0.800, +5.200]; W=0.0; p=0.0312; m=6  EFC +0.001 [+0.000, +0.001]; W=32.0; p=0.0049; m=20
+   REB-S-B1 compl +24.500 [+20.349, +28.651]; W=0.0; p=0.0000; m=20
+rolling, cdeg 0.15     B1: compl 75.5 cost -45.39 EFC 0.190 deg 17.24  B2+BD: compl 96.5 cost -44.14 EFC 0.190 deg 17.24  REB-S: compl 99.5 cost -42.47 EFC 0.191 deg 17.31
+   REB-S-B2+BD cost +1.672 [+1.232, +2.112]; W=2.0; p=0.0000; m=20  compl +3.000 [+0.327, +5.673]; W=4.5; p=0.0703; m=8  EFC +0.001 [+0.000, +0.001]; W=32.0; p=0.0049; m=20
+   REB-S-B1 compl +24.000 [+20.159, +27.841]; W=0.0; p=0.0000; m=20
+
+== X3 EV wear ==
+two-stage, cev 0.05              B1: compl 80.5 cost+wear -120.34 V2G kWh 249.5 EFC 2.019  B2+BD: compl 95.0 cost+wear -118.79 V2G kWh 249.5 EFC 2.000  REB-S: compl 96.5 cost+wear -114.04 V2G kWh 249.3 EFC 1.944
+   REB-S-B2+BD cost+wear +4.750 [+3.823, +5.676]; W=0.0; p=0.0000; m=20  compl +1.500 [-3.599, +6.599]; W=16.0; p=0.4844; m=9
+two-stage, cev 0.1               B1: compl 78.0 cost+wear -108.98 V2G kWh 201.0 EFC 2.002  B2+BD: compl 91.5 cost+wear -107.44 V2G kWh 201.0 EFC 1.987  REB-S: compl 97.0 cost+wear -102.67 V2G kWh 201.2 EFC 1.938
+   REB-S-B2+BD cost+wear +4.762 [+3.824, +5.699]; W=0.0; p=0.0000; m=20  compl +5.500 [+0.356, +10.644]; W=22.0; p=0.0593; m=14
+two-stage, cdeg 0.10 + cev 0.10  B1: compl 76.5 cost+wear -25.79 V2G kWh 193.7 EFC 0.190  B2+BD: compl 91.0 cost+wear -24.75 V2G kWh 187.8 EFC 0.190  REB-S: compl 96.5 cost+wear -23.41 V2G kWh 186.1 EFC 0.190
+   REB-S-B2+BD cost+wear +1.334 [+0.575, +2.093]; W=23.0; p=0.0012; m=20  compl +5.500 [+0.356, +10.644]; W=22.0; p=0.0593; m=14
+
+== X4 LSTM closed loop ==
+two-stage          LSTM compl 96.5±6.7 cost -127.93 EFC 1.948 FAR 0.005 rec 0.645 | Transformer compl 97.5 cost -127.74 EFC 1.944 FAR 0.005 rec 0.579
+   LSTM-Transformer compl -1.000 [-2.441, +0.441]; W=0.0; p=0.5000; m=2  cost -0.183 [-0.515, +0.148]; W=91.0; p=0.6215; m=20
+   LSTM-B2+BD compl -2.500 [-5.075, +0.075]; W=0.0; p=0.1250; m=4  cost +4.550 [+3.499, +5.601]; W=0.0; p=0.0000; m=20
+rolling            LSTM compl 100.0±0.0 cost -123.30 EFC 1.723 FAR 0.070 rec 0.809 | Transformer compl 100.0 cost -124.07 EFC 1.722 FAR 0.063 rec 0.680
+   LSTM-Transformer compl +0.000 [+0.000, +0.000]; W=nan; p=nan; m=0  cost +0.770 [-0.026, +1.565]; W=50.0; p=0.0400; m=20
+   LSTM-B2+BD compl +3.500 [+1.210, +5.790]; W=0.0; p=0.0156; m=7  cost +5.839 [+4.875, +6.804]; W=0.0; p=0.0000; m=20
+mismatch           LSTM compl 98.0±4.1 cost -122.35 EFC 1.883 FAR 0.347 rec 0.697 | Transformer compl 98.0 cost -123.53 EFC 1.900 FAR 0.301 rec 0.618
+   LSTM-Transformer compl +0.000 [+0.000, +0.000]; W=nan; p=nan; m=0  cost +1.172 [+0.261, +2.083]; W=29.0; p=0.0032; m=20
+mismatch + noise   LSTM compl 97.0±5.7 cost -120.89 EFC 1.874 FAR 0.423 rec 0.776 | Transformer compl 98.0 cost -121.42 EFC 1.883 FAR 0.357 rec 0.711
+   LSTM-Transformer compl -1.000 [-2.441, +0.441]; W=0.0; p=0.5000; m=2  cost +0.528 [-0.295, +1.351]; W=65.0; p=0.1429; m=20
+mismatch, rolling B2+BD|cusum          compl 97.0±7.3 cost -124.35 EFC 1.731 FAR 0.336 rec 0.713
+mismatch, rolling REB-S|transformer    compl 99.5±2.2 cost -120.75 EFC 1.723 FAR 0.263 rec 0.723
+mismatch, rolling REB-S|lstm           compl 99.5±2.2 cost -117.91 EFC 1.725 FAR 0.354 rec 0.844
+   REB-S(T)-B2+BD compl +2.500 [-1.180, +6.180]; W=2.5; p=0.3125; m=5  cost +3.601 [+2.550, +4.652]; W=3.0; p=0.0000; m=20
+   REB-S(L)-B2+BD compl +2.500 [-1.180, +6.180]; W=2.5; p=0.3125; m=5  cost +6.447 [+4.978, +7.917]; W=0.0; p=0.0000; m=20
+
+== X5 rolling ablation ==
+eq11 off: compl 48.5±12.7 cost -131.29 EFC 1.761 | vs full compl -51.500 [-57.435, -45.565]; W=0.0; p=0.0000; m=20 cost -7.218 [-8.173, -6.262]; W=0.0; p=0.0000; m=20 EFC +0.039 [+0.022, +0.057]; W=12.0; p=0.0001; m=20
+eq13 off: compl 98.5±3.7 cost -124.43 EFC 1.717 | vs full compl -1.500 [-3.215, +0.215]; W=0.0; p=0.2500; m=3 cost -0.357 [-1.116, +0.401]; W=77.0; p=0.3118; m=20 EFC -0.005 [-0.014, +0.005]; W=86.0; p=0.4980; m=20
+eq14 off: compl 84.5±8.9 cost -124.07 EFC 1.719 | vs full compl -15.500 [-19.651, -11.349]; W=0.0; p=0.0000; m=18 cost -0.001 [-0.321, +0.319]; W=101.0; p=0.8983; m=20 EFC -0.003 [-0.012, +0.005]; W=103.0; p=0.9563; m=20
+== Table 12: rolling ablation, strict / within-1%-SoC completion, unmet energy ==
+rolling, eq11 off        strict  48.5±12.7 within1%  95.5 unmet  1.06 kWh cost -131.29 EFC 1.761 | vs full -51.500 [-57.435, -45.565]; W=0.0; p=0.0000; m=20
+rolling, eq13 off        strict  98.5± 3.7 within1%  99.0 unmet  0.12 kWh cost -124.43 EFC 1.717 | vs full -1.500 [-3.215, +0.215]; W=0.0; p=0.2500; m=3
+rolling, eq14 off        strict  84.5± 8.9 within1%  85.0 unmet 10.57 kWh cost -124.07 EFC 1.719 | vs full -15.500 [-19.651, -11.349]; W=0.0; p=0.0000; m=18
+rolling, eq11+eq13 off   strict  88.5± 9.3 within1%  92.0 unmet  2.22 kWh cost -131.71 EFC 1.763 | vs full -11.500 [-15.868, -7.132]; W=0.0; p=0.0001; m=14
+eq11+eq13 off vs B2+BD (rolling): -8.000 [-12.186, -3.814]; W=0.0; p=0.0010; m=11
+rolling   B1     strict  76.5 within1%  79.0 unmet 17.29 kWh worst -0.2740 misses 47 (attacked 47)
+rolling   B2+BD  strict  96.5 within1% 100.0 unmet  0.13 kWh worst -0.0100 misses 7 (attacked 7)
+rolling   REB-S  strict 100.0 within1% 100.0 unmet  0.00 kWh worst +0.0002 misses 0 (attacked 0)
+two-stage B1     strict  82.5 within1%  83.5 unmet 13.51 kWh worst -0.3552 misses 35 (attacked 35)
+two-stage B2+BD  strict  99.0 within1%  99.5 unmet  0.09 kWh worst -0.0181 misses 2 (attacked 2)
+two-stage REB-S  strict  97.5 within1%  99.0 unmet  0.19 kWh worst -0.0161 misses 5 (attacked 5)
+eq11 off, NO attack (rolling): strict 41.0 within1% 100.0
+eq11 off (rolling): within1% 95.5; unattacked misses 67
+baseline two-stage V2G discharge kWh: {'B1': 292.0, 'B2+BD': 291.9, 'REB-S': 291.6}

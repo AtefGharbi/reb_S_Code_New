@@ -1,0 +1,3265 @@
+experiment,condition,method,seed,pred,gt
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,1
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,1,1,1
+E2,exact (published),B2,1,1,1
+E2,exact (published),B2,1,0,0
+E2,exact (published),B2,2,0,0
+E2,exact (published),B2,2,0,0
+E2,exact (published),B2,2,0,1
+E2,exact (published),B2,2,0,0
+E2,exact (published),B2,2,0,0
+E2,exact (published),B2,2,0,1
+E2,exact (published),B2,2,0,0
+E2,exact (published),B2,2,0,0
+E2,exact (published),B2,2,0,0
+E2,exact (published),B2,2,1,1
+E2,exact (published),B2,2,1,1
+E2,exact (published),B2,2,1,1
+E2,exact (published),B2,2,0,0
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,3,1,1
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,3,0,1
+E2,exact (published),B2,3,1,1
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,3,1,1
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,3,0,0
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,1,1
+E2,exact (published),B2,4,1,1
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,1
+E2,exact (published),B2,4,0,0
+E2,exact (published),B2,4,0,1
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,5,0,1
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,5,1,1
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,5,0,1
+E2,exact (published),B2,5,1,1
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,5,0,1
+E2,exact (published),B2,5,0,0
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,6,0,1
+E2,exact (published),B2,6,0,1
+E2,exact (published),B2,6,0,1
+E2,exact (published),B2,6,0,1
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,6,1,1
+E2,exact (published),B2,6,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,1
+E2,exact (published),B2,7,0,1
+E2,exact (published),B2,7,0,0
+E2,exact (published),B2,7,0,1
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,1,1
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,1,1
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,0,1
+E2,exact (published),B2,8,0,1
+E2,exact (published),B2,8,0,0
+E2,exact (published),B2,8,1,1
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,1,1
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,1,1
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,1,1
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,9,0,1
+E2,exact (published),B2,9,0,0
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,1,1
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,10,1,1
+E2,exact (published),B2,10,0,1
+E2,exact (published),B2,10,1,1
+E2,exact (published),B2,10,0,0
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,0,1
+E2,exact (published),B2,11,0,1
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,11,1,1
+E2,exact (published),B2,11,1,1
+E2,exact (published),B2,11,0,0
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,12,1,1
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,12,0,1
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,12,1,1
+E2,exact (published),B2,12,1,1
+E2,exact (published),B2,12,0,1
+E2,exact (published),B2,12,0,0
+E2,exact (published),B2,13,0,1
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,1,1
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,13,0,0
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,14,1,1
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,14,1,1
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,14,0,1
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,14,1,1
+E2,exact (published),B2,14,0,0
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,0,1
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,1,1
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,15,1,1
+E2,exact (published),B2,15,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,1,1
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,1,1
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,16,0,0
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,1,1
+E2,exact (published),B2,17,1,1
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,1,1
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,0,0
+E2,exact (published),B2,17,0,1
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,1,1
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,1,1
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,0,0
+E2,exact (published),B2,18,1,1
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,1,1
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,1,1
+E2,exact (published),B2,19,0,1
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,19,0,0
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,0,1
+E2,exact (published),B2,20,0,1
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,0,1
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,0,0
+E2,exact (published),B2,20,1,1
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,1
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,1,1,1
+E2,exact (published),B2+BD,1,1,1
+E2,exact (published),B2+BD,1,0,0
+E2,exact (published),B2+BD,2,0,0
+E2,exact (published),B2+BD,2,0,0
+E2,exact (published),B2+BD,2,0,1
+E2,exact (published),B2+BD,2,0,0
+E2,exact (published),B2+BD,2,0,0
+E2,exact (published),B2+BD,2,0,1
+E2,exact (published),B2+BD,2,0,0
+E2,exact (published),B2+BD,2,0,0
+E2,exact (published),B2+BD,2,0,0
+E2,exact (published),B2+BD,2,1,1
+E2,exact (published),B2+BD,2,1,1
+E2,exact (published),B2+BD,2,1,1
+E2,exact (published),B2+BD,2,0,0
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,3,1,1
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,3,0,1
+E2,exact (published),B2+BD,3,1,1
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,3,1,1
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,3,0,0
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,1,1
+E2,exact (published),B2+BD,4,1,1
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,1
+E2,exact (published),B2+BD,4,0,0
+E2,exact (published),B2+BD,4,0,1
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,5,0,1
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,5,1,1
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,5,0,1
+E2,exact (published),B2+BD,5,1,1
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,5,0,1
+E2,exact (published),B2+BD,5,0,0
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,6,0,1
+E2,exact (published),B2+BD,6,0,1
+E2,exact (published),B2+BD,6,0,1
+E2,exact (published),B2+BD,6,0,1
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,6,1,1
+E2,exact (published),B2+BD,6,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,1
+E2,exact (published),B2+BD,7,0,1
+E2,exact (published),B2+BD,7,0,0
+E2,exact (published),B2+BD,7,0,1
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,1,1
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,1,1
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,0,1
+E2,exact (published),B2+BD,8,0,1
+E2,exact (published),B2+BD,8,0,0
+E2,exact (published),B2+BD,8,1,1
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,1,1
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,1,1
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,1,1
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,9,0,1
+E2,exact (published),B2+BD,9,0,0
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,1,1
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,10,1,1
+E2,exact (published),B2+BD,10,0,1
+E2,exact (published),B2+BD,10,1,1
+E2,exact (published),B2+BD,10,0,0
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,0,1
+E2,exact (published),B2+BD,11,0,1
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,11,1,1
+E2,exact (published),B2+BD,11,1,1
+E2,exact (published),B2+BD,11,0,0
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,12,1,1
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,12,0,1
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,12,1,1
+E2,exact (published),B2+BD,12,1,1
+E2,exact (published),B2+BD,12,0,1
+E2,exact (published),B2+BD,12,0,0
+E2,exact (published),B2+BD,13,0,1
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,1,1
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,13,0,0
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,14,1,1
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,14,1,1
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,14,0,1
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,14,1,1
+E2,exact (published),B2+BD,14,0,0
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,0,1
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,1,1
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,15,1,1
+E2,exact (published),B2+BD,15,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,1,1
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,1,1
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,16,0,0
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,1,1
+E2,exact (published),B2+BD,17,1,1
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,1,1
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,0,0
+E2,exact (published),B2+BD,17,0,1
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,1,1
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,1,1
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,0,0
+E2,exact (published),B2+BD,18,1,1
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,1,1
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,1,1
+E2,exact (published),B2+BD,19,0,1
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,19,0,0
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,0,1
+E2,exact (published),B2+BD,20,0,1
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,0,1
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,0,0
+E2,exact (published),B2+BD,20,1,1
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,1
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,1,1,1
+E2,exact (published),REB-S,1,1,1
+E2,exact (published),REB-S,1,0,0
+E2,exact (published),REB-S,2,0,0
+E2,exact (published),REB-S,2,0,0
+E2,exact (published),REB-S,2,1,1
+E2,exact (published),REB-S,2,0,0
+E2,exact (published),REB-S,2,0,0
+E2,exact (published),REB-S,2,0,1
+E2,exact (published),REB-S,2,0,0
+E2,exact (published),REB-S,2,0,0
+E2,exact (published),REB-S,2,0,0
+E2,exact (published),REB-S,2,0,1
+E2,exact (published),REB-S,2,1,1
+E2,exact (published),REB-S,2,1,1
+E2,exact (published),REB-S,2,0,0
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,3,1,1
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,3,0,1
+E2,exact (published),REB-S,3,1,1
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,3,0,1
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,3,0,0
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,1,1
+E2,exact (published),REB-S,4,1,1
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,1,1
+E2,exact (published),REB-S,4,0,0
+E2,exact (published),REB-S,4,0,1
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,5,1,1
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,5,1,1
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,5,1,1
+E2,exact (published),REB-S,5,0,1
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,5,0,1
+E2,exact (published),REB-S,5,0,0
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,6,0,1
+E2,exact (published),REB-S,6,1,1
+E2,exact (published),REB-S,6,1,1
+E2,exact (published),REB-S,6,1,1
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,6,1,1
+E2,exact (published),REB-S,6,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,1,1
+E2,exact (published),REB-S,7,1,1
+E2,exact (published),REB-S,7,0,0
+E2,exact (published),REB-S,7,1,1
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,0,1
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,0,1
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,0,1
+E2,exact (published),REB-S,8,0,1
+E2,exact (published),REB-S,8,0,0
+E2,exact (published),REB-S,8,1,1
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,1,1
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,1,1
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,0,1
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,9,1,1
+E2,exact (published),REB-S,9,0,0
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,0,1
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,10,1,1
+E2,exact (published),REB-S,10,0,1
+E2,exact (published),REB-S,10,1,1
+E2,exact (published),REB-S,10,0,0
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,1,1
+E2,exact (published),REB-S,11,1,1
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,11,0,1
+E2,exact (published),REB-S,11,1,1
+E2,exact (published),REB-S,11,0,0
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,12,0,1
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,12,1,1
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,12,0,1
+E2,exact (published),REB-S,12,0,1
+E2,exact (published),REB-S,12,1,1
+E2,exact (published),REB-S,12,0,0
+E2,exact (published),REB-S,13,0,1
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,0,1
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,13,1,0
+E2,exact (published),REB-S,13,0,0
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,14,1,1
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,14,0,1
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,14,0,1
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,14,1,1
+E2,exact (published),REB-S,14,0,0
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,1,1
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,1,1
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,15,1,1
+E2,exact (published),REB-S,15,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,1,1
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,1
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,16,0,0
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,0,1
+E2,exact (published),REB-S,17,1,1
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,0,1
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,0,0
+E2,exact (published),REB-S,17,1,1
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,1
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,1
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,0,0
+E2,exact (published),REB-S,18,1,1
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,1
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,1,1
+E2,exact (published),REB-S,19,0,1
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,19,0,0
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,1,1
+E2,exact (published),REB-S,20,0,1
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,1,1
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,0,0
+E2,exact (published),REB-S,20,1,1
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,1
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,1,1,1
+E2,noisy online features,B2,1,1,1
+E2,noisy online features,B2,1,0,0
+E2,noisy online features,B2,2,0,0
+E2,noisy online features,B2,2,0,0
+E2,noisy online features,B2,2,0,1
+E2,noisy online features,B2,2,0,0
+E2,noisy online features,B2,2,0,0
+E2,noisy online features,B2,2,0,1
+E2,noisy online features,B2,2,0,0
+E2,noisy online features,B2,2,0,0
+E2,noisy online features,B2,2,0,0
+E2,noisy online features,B2,2,1,1
+E2,noisy online features,B2,2,1,1
+E2,noisy online features,B2,2,1,1
+E2,noisy online features,B2,2,0,0
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,3,1,1
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,3,0,1
+E2,noisy online features,B2,3,1,1
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,3,1,1
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,3,0,0
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,1,1
+E2,noisy online features,B2,4,1,1
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,1
+E2,noisy online features,B2,4,0,0
+E2,noisy online features,B2,4,0,1
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,5,0,1
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,5,1,1
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,5,0,1
+E2,noisy online features,B2,5,1,1
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,5,0,1
+E2,noisy online features,B2,5,0,0
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,6,0,1
+E2,noisy online features,B2,6,0,1
+E2,noisy online features,B2,6,0,1
+E2,noisy online features,B2,6,0,1
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,6,1,1
+E2,noisy online features,B2,6,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,1
+E2,noisy online features,B2,7,0,1
+E2,noisy online features,B2,7,0,0
+E2,noisy online features,B2,7,0,1
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,1,1
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,1,1
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,0,1
+E2,noisy online features,B2,8,0,1
+E2,noisy online features,B2,8,0,0
+E2,noisy online features,B2,8,1,1
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,1,1
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,1,1
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,1,1
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,9,0,1
+E2,noisy online features,B2,9,0,0
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,1,1
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,10,1,1
+E2,noisy online features,B2,10,0,1
+E2,noisy online features,B2,10,1,1
+E2,noisy online features,B2,10,0,0
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,0,1
+E2,noisy online features,B2,11,0,1
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,11,1,1
+E2,noisy online features,B2,11,1,1
+E2,noisy online features,B2,11,0,0
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,12,1,1
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,12,0,1
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,12,1,1
+E2,noisy online features,B2,12,1,1
+E2,noisy online features,B2,12,0,1
+E2,noisy online features,B2,12,0,0
+E2,noisy online features,B2,13,0,1
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,1,1
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,13,0,0
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,14,1,1
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,14,1,1
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,14,0,1
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,14,1,1
+E2,noisy online features,B2,14,0,0
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,0,1
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,1,1
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,15,1,1
+E2,noisy online features,B2,15,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,1,1
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,1,1
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,16,0,0
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,1,1
+E2,noisy online features,B2,17,1,1
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,1,1
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,0,0
+E2,noisy online features,B2,17,0,1
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,1,1
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,1,1
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,0,0
+E2,noisy online features,B2,18,1,1
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,1,1
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,1,1
+E2,noisy online features,B2,19,0,1
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,19,0,0
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,0,1
+E2,noisy online features,B2,20,0,1
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,0,1
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,0,0
+E2,noisy online features,B2,20,1,1
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,1
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,1,1,1
+E2,noisy online features,B2+BD,1,1,1
+E2,noisy online features,B2+BD,1,0,0
+E2,noisy online features,B2+BD,2,0,0
+E2,noisy online features,B2+BD,2,0,0
+E2,noisy online features,B2+BD,2,0,1
+E2,noisy online features,B2+BD,2,0,0
+E2,noisy online features,B2+BD,2,0,0
+E2,noisy online features,B2+BD,2,0,1
+E2,noisy online features,B2+BD,2,0,0
+E2,noisy online features,B2+BD,2,0,0
+E2,noisy online features,B2+BD,2,0,0
+E2,noisy online features,B2+BD,2,1,1
+E2,noisy online features,B2+BD,2,1,1
+E2,noisy online features,B2+BD,2,1,1
+E2,noisy online features,B2+BD,2,0,0
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,3,1,1
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,3,0,1
+E2,noisy online features,B2+BD,3,1,1
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,3,1,1
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,3,0,0
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,1,1
+E2,noisy online features,B2+BD,4,1,1
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,1
+E2,noisy online features,B2+BD,4,0,0
+E2,noisy online features,B2+BD,4,0,1
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,5,0,1
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,5,1,1
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,5,0,1
+E2,noisy online features,B2+BD,5,1,1
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,5,0,1
+E2,noisy online features,B2+BD,5,0,0
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,6,0,1
+E2,noisy online features,B2+BD,6,0,1
+E2,noisy online features,B2+BD,6,0,1
+E2,noisy online features,B2+BD,6,0,1
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,6,1,1
+E2,noisy online features,B2+BD,6,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,1
+E2,noisy online features,B2+BD,7,0,1
+E2,noisy online features,B2+BD,7,0,0
+E2,noisy online features,B2+BD,7,0,1
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,1,1
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,1,1
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,0,1
+E2,noisy online features,B2+BD,8,0,1
+E2,noisy online features,B2+BD,8,0,0
+E2,noisy online features,B2+BD,8,1,1
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,1,1
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,1,1
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,1,1
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,9,0,1
+E2,noisy online features,B2+BD,9,0,0
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,1,1
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,10,1,1
+E2,noisy online features,B2+BD,10,0,1
+E2,noisy online features,B2+BD,10,1,1
+E2,noisy online features,B2+BD,10,0,0
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,0,1
+E2,noisy online features,B2+BD,11,0,1
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,11,1,1
+E2,noisy online features,B2+BD,11,1,1
+E2,noisy online features,B2+BD,11,0,0
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,12,1,1
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,12,0,1
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,12,1,1
+E2,noisy online features,B2+BD,12,1,1
+E2,noisy online features,B2+BD,12,0,1
+E2,noisy online features,B2+BD,12,0,0
+E2,noisy online features,B2+BD,13,0,1
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,1,1
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,13,0,0
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,14,1,1
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,14,1,1
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,14,0,1
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,14,1,1
+E2,noisy online features,B2+BD,14,0,0
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,0,1
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,1,1
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,15,1,1
+E2,noisy online features,B2+BD,15,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,1,1
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,1,1
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,16,0,0
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,1,1
+E2,noisy online features,B2+BD,17,1,1
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,1,1
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,0,0
+E2,noisy online features,B2+BD,17,0,1
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,1,1
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,1,1
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,0,0
+E2,noisy online features,B2+BD,18,1,1
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,1,1
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,1,1
+E2,noisy online features,B2+BD,19,0,1
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,19,0,0
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,0,1
+E2,noisy online features,B2+BD,20,0,1
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,0,1
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,0,0
+E2,noisy online features,B2+BD,20,1,1
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,1,1
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,1,1,1
+E2,noisy online features,REB-S,1,1,1
+E2,noisy online features,REB-S,1,0,0
+E2,noisy online features,REB-S,2,0,0
+E2,noisy online features,REB-S,2,0,0
+E2,noisy online features,REB-S,2,1,1
+E2,noisy online features,REB-S,2,0,0
+E2,noisy online features,REB-S,2,0,0
+E2,noisy online features,REB-S,2,1,1
+E2,noisy online features,REB-S,2,0,0
+E2,noisy online features,REB-S,2,0,0
+E2,noisy online features,REB-S,2,0,0
+E2,noisy online features,REB-S,2,0,1
+E2,noisy online features,REB-S,2,1,1
+E2,noisy online features,REB-S,2,1,1
+E2,noisy online features,REB-S,2,0,0
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,3,1,1
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,3,0,1
+E2,noisy online features,REB-S,3,1,1
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,3,1,1
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,3,0,0
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,1,1
+E2,noisy online features,REB-S,4,1,1
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,1,1
+E2,noisy online features,REB-S,4,0,0
+E2,noisy online features,REB-S,4,1,1
+E2,noisy online features,REB-S,5,0,0
+E2,noisy online features,REB-S,5,0,0
+E2,noisy online features,REB-S,5,0,1
+E2,noisy online features,REB-S,5,0,0
+E2,noisy online features,REB-S,5,0,0
+E2,noisy online features,REB-S,5,1,1
+E2,noisy online features,REB-S,5,0,0
+E2,noisy online features,REB-S,5,0,0
+E2,noisy online features,REB-S,5,1,0
+E2,noisy online features,REB-S,5,1,1
+E2,noisy online features,REB-S,5,0,1
+E2,noisy online features,REB-S,5,0,0
+E2,noisy online features,REB-S,5,0,1
+E2,noisy online features,REB-S,5,0,0
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,6,0,1
+E2,noisy online features,REB-S,6,1,1
+E2,noisy online features,REB-S,6,1,1
+E2,noisy online features,REB-S,6,1,1
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,6,1,1
+E2,noisy online features,REB-S,6,0,0
+E2,noisy online features,REB-S,7,0,0
+E2,noisy online features,REB-S,7,0,0
+E2,noisy online features,REB-S,7,0,0
+E2,noisy online features,REB-S,7,0,0
+E2,noisy online features,REB-S,7,1,0
+E2,noisy online features,REB-S,7,0,0
+E2,noisy online features,REB-S,7,1,0
+E2,noisy online features,REB-S,7,0,0
+E2,noisy online features,REB-S,7,0,0
+E2,noisy online features,REB-S,7,0,0
+E2,noisy online features,REB-S,7,1,1
+E2,noisy online features,REB-S,7,1,1
+E2,noisy online features,REB-S,7,1,0
+E2,noisy online features,REB-S,7,1,1
+E2,noisy online features,REB-S,8,0,0
+E2,noisy online features,REB-S,8,0,0
+E2,noisy online features,REB-S,8,0,0
+E2,noisy online features,REB-S,8,1,1
+E2,noisy online features,REB-S,8,1,0
+E2,noisy online features,REB-S,8,0,0
+E2,noisy online features,REB-S,8,0,0
+E2,noisy online features,REB-S,8,0,1
+E2,noisy online features,REB-S,8,0,0
+E2,noisy online features,REB-S,8,0,0
+E2,noisy online features,REB-S,8,1,1
+E2,noisy online features,REB-S,8,0,1
+E2,noisy online features,REB-S,8,0,0
+E2,noisy online features,REB-S,8,1,1
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,9,0,1
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,9,1,1
+E2,noisy online features,REB-S,9,1,0
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,9,0,1
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,9,1,1
+E2,noisy online features,REB-S,9,0,0
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,1,1
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,10,1,1
+E2,noisy online features,REB-S,10,0,1
+E2,noisy online features,REB-S,10,1,1
+E2,noisy online features,REB-S,10,0,0
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,1,1
+E2,noisy online features,REB-S,11,1,1
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,11,1,1
+E2,noisy online features,REB-S,11,1,1
+E2,noisy online features,REB-S,11,0,0
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,12,0,1
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,12,1,1
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,12,0,1
+E2,noisy online features,REB-S,12,1,1
+E2,noisy online features,REB-S,12,1,1
+E2,noisy online features,REB-S,12,0,0
+E2,noisy online features,REB-S,13,0,1
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,13,1,0
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,13,0,1
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,13,1,0
+E2,noisy online features,REB-S,13,0,0
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,14,1,1
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,14,0,1
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,14,1,1
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,14,1,1
+E2,noisy online features,REB-S,14,0,0
+E2,noisy online features,REB-S,15,0,0
+E2,noisy online features,REB-S,15,0,0
+E2,noisy online features,REB-S,15,1,0
+E2,noisy online features,REB-S,15,1,0
+E2,noisy online features,REB-S,15,1,1
+E2,noisy online features,REB-S,15,1,0
+E2,noisy online features,REB-S,15,0,0
+E2,noisy online features,REB-S,15,1,1
+E2,noisy online features,REB-S,15,0,0
+E2,noisy online features,REB-S,15,0,0
+E2,noisy online features,REB-S,15,0,0
+E2,noisy online features,REB-S,15,0,0
+E2,noisy online features,REB-S,15,1,1
+E2,noisy online features,REB-S,15,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,1,1
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,1
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,16,0,0
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,0,1
+E2,noisy online features,REB-S,17,1,1
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,0,1
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,0,0
+E2,noisy online features,REB-S,17,1,1
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,0,1
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,1,1
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,0,0
+E2,noisy online features,REB-S,18,1,1
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,1
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,1,1
+E2,noisy online features,REB-S,19,0,1
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,19,0,0
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,1,1
+E2,noisy online features,REB-S,20,1,1
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,1,1
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,0,0
+E2,noisy online features,REB-S,20,1,1
+E2,model mismatch,B2,1,0,0
+E2,model mismatch,B2,1,0,0
+E2,model mismatch,B2,1,0,0
+E2,model mismatch,B2,1,0,0
+E2,model mismatch,B2,1,1,0
+E2,model mismatch,B2,1,1,0
+E2,model mismatch,B2,1,0,0
+E2,model mismatch,B2,1,0,1
+E2,model mismatch,B2,1,0,0
+E2,model mismatch,B2,1,1,0
+E2,model mismatch,B2,1,1,0
+E2,model mismatch,B2,1,0,1
+E2,model mismatch,B2,1,1,1
+E2,model mismatch,B2,1,0,0
+E2,model mismatch,B2,2,0,0
+E2,model mismatch,B2,2,0,0
+E2,model mismatch,B2,2,1,1
+E2,model mismatch,B2,2,1,0
+E2,model mismatch,B2,2,0,0
+E2,model mismatch,B2,2,0,1
+E2,model mismatch,B2,2,0,0
+E2,model mismatch,B2,2,1,0
+E2,model mismatch,B2,2,1,0
+E2,model mismatch,B2,2,1,1
+E2,model mismatch,B2,2,1,1
+E2,model mismatch,B2,2,1,1
+E2,model mismatch,B2,2,0,0
+E2,model mismatch,B2,3,0,0
+E2,model mismatch,B2,3,0,0
+E2,model mismatch,B2,3,0,0
+E2,model mismatch,B2,3,1,1
+E2,model mismatch,B2,3,0,0
+E2,model mismatch,B2,3,1,1
+E2,model mismatch,B2,3,1,1
+E2,model mismatch,B2,3,1,0
+E2,model mismatch,B2,3,0,0
+E2,model mismatch,B2,3,0,0
+E2,model mismatch,B2,3,1,1
+E2,model mismatch,B2,3,0,0
+E2,model mismatch,B2,3,0,0
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,1,1
+E2,model mismatch,B2,4,1,1
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,1,0
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,0,1
+E2,model mismatch,B2,4,0,0
+E2,model mismatch,B2,4,0,1
+E2,model mismatch,B2,5,0,0
+E2,model mismatch,B2,5,0,0
+E2,model mismatch,B2,5,0,1
+E2,model mismatch,B2,5,0,0
+E2,model mismatch,B2,5,0,0
+E2,model mismatch,B2,5,1,1
+E2,model mismatch,B2,5,0,0
+E2,model mismatch,B2,5,1,0
+E2,model mismatch,B2,5,1,0
+E2,model mismatch,B2,5,0,1
+E2,model mismatch,B2,5,1,1
+E2,model mismatch,B2,5,1,0
+E2,model mismatch,B2,5,0,1
+E2,model mismatch,B2,5,0,0
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,6,0,1
+E2,model mismatch,B2,6,1,1
+E2,model mismatch,B2,6,0,1
+E2,model mismatch,B2,6,0,1
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,6,1,1
+E2,model mismatch,B2,6,0,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,1,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,1
+E2,model mismatch,B2,7,0,1
+E2,model mismatch,B2,7,0,0
+E2,model mismatch,B2,7,0,1
+E2,model mismatch,B2,8,0,0
+E2,model mismatch,B2,8,0,0
+E2,model mismatch,B2,8,0,0
+E2,model mismatch,B2,8,1,1
+E2,model mismatch,B2,8,0,0
+E2,model mismatch,B2,8,0,0
+E2,model mismatch,B2,8,0,0
+E2,model mismatch,B2,8,1,1
+E2,model mismatch,B2,8,1,0
+E2,model mismatch,B2,8,1,0
+E2,model mismatch,B2,8,0,1
+E2,model mismatch,B2,8,0,1
+E2,model mismatch,B2,8,0,0
+E2,model mismatch,B2,8,1,1
+E2,model mismatch,B2,9,0,0
+E2,model mismatch,B2,9,0,0
+E2,model mismatch,B2,9,0,1
+E2,model mismatch,B2,9,0,0
+E2,model mismatch,B2,9,0,0
+E2,model mismatch,B2,9,1,0
+E2,model mismatch,B2,9,1,1
+E2,model mismatch,B2,9,1,0
+E2,model mismatch,B2,9,1,0
+E2,model mismatch,B2,9,1,1
+E2,model mismatch,B2,9,0,0
+E2,model mismatch,B2,9,0,0
+E2,model mismatch,B2,9,0,1
+E2,model mismatch,B2,9,0,0
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,10,1,0
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,10,0,1
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,10,0,1
+E2,model mismatch,B2,10,0,1
+E2,model mismatch,B2,10,1,1
+E2,model mismatch,B2,10,0,0
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,0,1
+E2,model mismatch,B2,11,0,1
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,11,1,1
+E2,model mismatch,B2,11,1,1
+E2,model mismatch,B2,11,0,0
+E2,model mismatch,B2,12,0,0
+E2,model mismatch,B2,12,0,0
+E2,model mismatch,B2,12,0,0
+E2,model mismatch,B2,12,1,1
+E2,model mismatch,B2,12,0,0
+E2,model mismatch,B2,12,0,1
+E2,model mismatch,B2,12,0,0
+E2,model mismatch,B2,12,1,0
+E2,model mismatch,B2,12,0,0
+E2,model mismatch,B2,12,0,0
+E2,model mismatch,B2,12,1,1
+E2,model mismatch,B2,12,1,1
+E2,model mismatch,B2,12,0,1
+E2,model mismatch,B2,12,0,0
+E2,model mismatch,B2,13,0,1
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,1,1
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,1,0
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,13,0,0
+E2,model mismatch,B2,14,0,0
+E2,model mismatch,B2,14,0,0
+E2,model mismatch,B2,14,0,0
+E2,model mismatch,B2,14,1,1
+E2,model mismatch,B2,14,0,0
+E2,model mismatch,B2,14,1,1
+E2,model mismatch,B2,14,0,0
+E2,model mismatch,B2,14,0,1
+E2,model mismatch,B2,14,0,0
+E2,model mismatch,B2,14,0,0
+E2,model mismatch,B2,14,1,0
+E2,model mismatch,B2,14,1,1
+E2,model mismatch,B2,14,0,0
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,15,1,0
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,15,1,1
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,15,1,1
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,15,1,0
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,15,1,1
+E2,model mismatch,B2,15,0,0
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,16,1,1
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,16,1,0
+E2,model mismatch,B2,16,1,1
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,16,1,0
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,16,0,0
+E2,model mismatch,B2,17,0,0
+E2,model mismatch,B2,17,0,0
+E2,model mismatch,B2,17,1,1
+E2,model mismatch,B2,17,1,1
+E2,model mismatch,B2,17,1,0
+E2,model mismatch,B2,17,0,0
+E2,model mismatch,B2,17,0,0
+E2,model mismatch,B2,17,0,0
+E2,model mismatch,B2,17,0,1
+E2,model mismatch,B2,17,0,0
+E2,model mismatch,B2,17,0,0
+E2,model mismatch,B2,17,0,0
+E2,model mismatch,B2,17,0,1
+E2,model mismatch,B2,18,0,0
+E2,model mismatch,B2,18,0,0
+E2,model mismatch,B2,18,0,0
+E2,model mismatch,B2,18,1,1
+E2,model mismatch,B2,18,1,0
+E2,model mismatch,B2,18,0,0
+E2,model mismatch,B2,18,0,0
+E2,model mismatch,B2,18,1,1
+E2,model mismatch,B2,18,1,0
+E2,model mismatch,B2,18,0,0
+E2,model mismatch,B2,18,1,0
+E2,model mismatch,B2,18,0,0
+E2,model mismatch,B2,18,1,1
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,19,1,0
+E2,model mismatch,B2,19,1,0
+E2,model mismatch,B2,19,1,1
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,19,1,1
+E2,model mismatch,B2,19,1,1
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,19,0,0
+E2,model mismatch,B2,20,0,0
+E2,model mismatch,B2,20,0,0
+E2,model mismatch,B2,20,0,1
+E2,model mismatch,B2,20,1,1
+E2,model mismatch,B2,20,1,0
+E2,model mismatch,B2,20,0,0
+E2,model mismatch,B2,20,0,0
+E2,model mismatch,B2,20,0,1
+E2,model mismatch,B2,20,1,0
+E2,model mismatch,B2,20,0,0
+E2,model mismatch,B2,20,1,0
+E2,model mismatch,B2,20,0,0
+E2,model mismatch,B2,20,1,1
+E2,model mismatch,B2+BD,1,0,0
+E2,model mismatch,B2+BD,1,0,0
+E2,model mismatch,B2+BD,1,0,0
+E2,model mismatch,B2+BD,1,0,0
+E2,model mismatch,B2+BD,1,1,0
+E2,model mismatch,B2+BD,1,1,0
+E2,model mismatch,B2+BD,1,0,0
+E2,model mismatch,B2+BD,1,0,1
+E2,model mismatch,B2+BD,1,0,0
+E2,model mismatch,B2+BD,1,1,0
+E2,model mismatch,B2+BD,1,1,0
+E2,model mismatch,B2+BD,1,0,1
+E2,model mismatch,B2+BD,1,1,1
+E2,model mismatch,B2+BD,1,0,0
+E2,model mismatch,B2+BD,2,0,0
+E2,model mismatch,B2+BD,2,0,0
+E2,model mismatch,B2+BD,2,1,1
+E2,model mismatch,B2+BD,2,1,0
+E2,model mismatch,B2+BD,2,0,0
+E2,model mismatch,B2+BD,2,0,1
+E2,model mismatch,B2+BD,2,0,0
+E2,model mismatch,B2+BD,2,1,0
+E2,model mismatch,B2+BD,2,1,0
+E2,model mismatch,B2+BD,2,1,1
+E2,model mismatch,B2+BD,2,1,1
+E2,model mismatch,B2+BD,2,1,1
+E2,model mismatch,B2+BD,2,0,0
+E2,model mismatch,B2+BD,3,0,0
+E2,model mismatch,B2+BD,3,0,0
+E2,model mismatch,B2+BD,3,0,0
+E2,model mismatch,B2+BD,3,1,1
+E2,model mismatch,B2+BD,3,0,0
+E2,model mismatch,B2+BD,3,1,1
+E2,model mismatch,B2+BD,3,1,1
+E2,model mismatch,B2+BD,3,1,0
+E2,model mismatch,B2+BD,3,0,0
+E2,model mismatch,B2+BD,3,0,0
+E2,model mismatch,B2+BD,3,1,1
+E2,model mismatch,B2+BD,3,0,0
+E2,model mismatch,B2+BD,3,0,0
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,1,1
+E2,model mismatch,B2+BD,4,1,1
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,1,0
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,0,1
+E2,model mismatch,B2+BD,4,0,0
+E2,model mismatch,B2+BD,4,0,1
+E2,model mismatch,B2+BD,5,0,0
+E2,model mismatch,B2+BD,5,0,0
+E2,model mismatch,B2+BD,5,0,1
+E2,model mismatch,B2+BD,5,0,0
+E2,model mismatch,B2+BD,5,0,0
+E2,model mismatch,B2+BD,5,1,1
+E2,model mismatch,B2+BD,5,0,0
+E2,model mismatch,B2+BD,5,1,0
+E2,model mismatch,B2+BD,5,1,0
+E2,model mismatch,B2+BD,5,0,1
+E2,model mismatch,B2+BD,5,1,1
+E2,model mismatch,B2+BD,5,1,0
+E2,model mismatch,B2+BD,5,0,1
+E2,model mismatch,B2+BD,5,0,0
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,6,0,1
+E2,model mismatch,B2+BD,6,1,1
+E2,model mismatch,B2+BD,6,0,1
+E2,model mismatch,B2+BD,6,0,1
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,6,1,1
+E2,model mismatch,B2+BD,6,0,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,1,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,1
+E2,model mismatch,B2+BD,7,0,1
+E2,model mismatch,B2+BD,7,0,0
+E2,model mismatch,B2+BD,7,0,1
+E2,model mismatch,B2+BD,8,0,0
+E2,model mismatch,B2+BD,8,0,0
+E2,model mismatch,B2+BD,8,0,0
+E2,model mismatch,B2+BD,8,1,1
+E2,model mismatch,B2+BD,8,0,0
+E2,model mismatch,B2+BD,8,0,0
+E2,model mismatch,B2+BD,8,0,0
+E2,model mismatch,B2+BD,8,1,1
+E2,model mismatch,B2+BD,8,1,0
+E2,model mismatch,B2+BD,8,1,0
+E2,model mismatch,B2+BD,8,0,1
+E2,model mismatch,B2+BD,8,0,1
+E2,model mismatch,B2+BD,8,0,0
+E2,model mismatch,B2+BD,8,1,1
+E2,model mismatch,B2+BD,9,0,0
+E2,model mismatch,B2+BD,9,0,0
+E2,model mismatch,B2+BD,9,0,1
+E2,model mismatch,B2+BD,9,0,0
+E2,model mismatch,B2+BD,9,0,0
+E2,model mismatch,B2+BD,9,1,0
+E2,model mismatch,B2+BD,9,1,1
+E2,model mismatch,B2+BD,9,1,0
+E2,model mismatch,B2+BD,9,1,0
+E2,model mismatch,B2+BD,9,1,1
+E2,model mismatch,B2+BD,9,0,0
+E2,model mismatch,B2+BD,9,0,0
+E2,model mismatch,B2+BD,9,0,1
+E2,model mismatch,B2+BD,9,0,0
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,10,1,0
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,10,0,1
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,10,0,1
+E2,model mismatch,B2+BD,10,0,1
+E2,model mismatch,B2+BD,10,1,1
+E2,model mismatch,B2+BD,10,0,0
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,0,1
+E2,model mismatch,B2+BD,11,0,1
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,11,1,1
+E2,model mismatch,B2+BD,11,1,1
+E2,model mismatch,B2+BD,11,0,0
+E2,model mismatch,B2+BD,12,0,0
+E2,model mismatch,B2+BD,12,0,0
+E2,model mismatch,B2+BD,12,0,0
+E2,model mismatch,B2+BD,12,1,1
+E2,model mismatch,B2+BD,12,0,0
+E2,model mismatch,B2+BD,12,0,1
+E2,model mismatch,B2+BD,12,0,0
+E2,model mismatch,B2+BD,12,1,0
+E2,model mismatch,B2+BD,12,0,0
+E2,model mismatch,B2+BD,12,0,0
+E2,model mismatch,B2+BD,12,1,1
+E2,model mismatch,B2+BD,12,1,1
+E2,model mismatch,B2+BD,12,0,1
+E2,model mismatch,B2+BD,12,0,0
+E2,model mismatch,B2+BD,13,0,1
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,1,1
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,1,0
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,13,0,0
+E2,model mismatch,B2+BD,14,0,0
+E2,model mismatch,B2+BD,14,0,0
+E2,model mismatch,B2+BD,14,0,0
+E2,model mismatch,B2+BD,14,1,1
+E2,model mismatch,B2+BD,14,0,0
+E2,model mismatch,B2+BD,14,1,1
+E2,model mismatch,B2+BD,14,0,0
+E2,model mismatch,B2+BD,14,0,1
+E2,model mismatch,B2+BD,14,0,0
+E2,model mismatch,B2+BD,14,0,0
+E2,model mismatch,B2+BD,14,1,0
+E2,model mismatch,B2+BD,14,1,1
+E2,model mismatch,B2+BD,14,0,0
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,15,1,0
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,15,1,1
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,15,1,1
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,15,1,0
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,15,1,1
+E2,model mismatch,B2+BD,15,0,0
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,16,1,1
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,16,1,0
+E2,model mismatch,B2+BD,16,1,1
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,16,1,0
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,16,0,0
+E2,model mismatch,B2+BD,17,0,0
+E2,model mismatch,B2+BD,17,0,0
+E2,model mismatch,B2+BD,17,1,1
+E2,model mismatch,B2+BD,17,1,1
+E2,model mismatch,B2+BD,17,1,0
+E2,model mismatch,B2+BD,17,0,0
+E2,model mismatch,B2+BD,17,0,0
+E2,model mismatch,B2+BD,17,0,0
+E2,model mismatch,B2+BD,17,0,1
+E2,model mismatch,B2+BD,17,0,0
+E2,model mismatch,B2+BD,17,0,0
+E2,model mismatch,B2+BD,17,0,0
+E2,model mismatch,B2+BD,17,0,1
+E2,model mismatch,B2+BD,18,0,0
+E2,model mismatch,B2+BD,18,0,0
+E2,model mismatch,B2+BD,18,0,0
+E2,model mismatch,B2+BD,18,1,1
+E2,model mismatch,B2+BD,18,1,0
+E2,model mismatch,B2+BD,18,0,0
+E2,model mismatch,B2+BD,18,0,0
+E2,model mismatch,B2+BD,18,1,1
+E2,model mismatch,B2+BD,18,1,0
+E2,model mismatch,B2+BD,18,0,0
+E2,model mismatch,B2+BD,18,1,0
+E2,model mismatch,B2+BD,18,0,0
+E2,model mismatch,B2+BD,18,1,1
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,19,1,0
+E2,model mismatch,B2+BD,19,1,0
+E2,model mismatch,B2+BD,19,1,1
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,19,1,1
+E2,model mismatch,B2+BD,19,1,1
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,19,0,0
+E2,model mismatch,B2+BD,20,0,0
+E2,model mismatch,B2+BD,20,0,0
+E2,model mismatch,B2+BD,20,0,1
+E2,model mismatch,B2+BD,20,1,1
+E2,model mismatch,B2+BD,20,1,0
+E2,model mismatch,B2+BD,20,0,0
+E2,model mismatch,B2+BD,20,0,0
+E2,model mismatch,B2+BD,20,0,1
+E2,model mismatch,B2+BD,20,1,0
+E2,model mismatch,B2+BD,20,0,0
+E2,model mismatch,B2+BD,20,1,0
+E2,model mismatch,B2+BD,20,0,0
+E2,model mismatch,B2+BD,20,1,1
+E2,model mismatch,REB-S,1,0,0
+E2,model mismatch,REB-S,1,0,0
+E2,model mismatch,REB-S,1,0,0
+E2,model mismatch,REB-S,1,0,0
+E2,model mismatch,REB-S,1,1,0
+E2,model mismatch,REB-S,1,0,0
+E2,model mismatch,REB-S,1,1,0
+E2,model mismatch,REB-S,1,1,1
+E2,model mismatch,REB-S,1,0,0
+E2,model mismatch,REB-S,1,1,0
+E2,model mismatch,REB-S,1,1,0
+E2,model mismatch,REB-S,1,0,1
+E2,model mismatch,REB-S,1,1,1
+E2,model mismatch,REB-S,1,1,0
+E2,model mismatch,REB-S,2,0,0
+E2,model mismatch,REB-S,2,0,0
+E2,model mismatch,REB-S,2,1,1
+E2,model mismatch,REB-S,2,1,0
+E2,model mismatch,REB-S,2,1,0
+E2,model mismatch,REB-S,2,1,1
+E2,model mismatch,REB-S,2,1,0
+E2,model mismatch,REB-S,2,1,0
+E2,model mismatch,REB-S,2,1,0
+E2,model mismatch,REB-S,2,0,1
+E2,model mismatch,REB-S,2,1,1
+E2,model mismatch,REB-S,2,1,1
+E2,model mismatch,REB-S,2,0,0
+E2,model mismatch,REB-S,3,0,0
+E2,model mismatch,REB-S,3,0,0
+E2,model mismatch,REB-S,3,0,0
+E2,model mismatch,REB-S,3,1,1
+E2,model mismatch,REB-S,3,1,0
+E2,model mismatch,REB-S,3,0,1
+E2,model mismatch,REB-S,3,1,1
+E2,model mismatch,REB-S,3,1,0
+E2,model mismatch,REB-S,3,0,0
+E2,model mismatch,REB-S,3,0,0
+E2,model mismatch,REB-S,3,0,1
+E2,model mismatch,REB-S,3,0,0
+E2,model mismatch,REB-S,3,1,0
+E2,model mismatch,REB-S,4,0,0
+E2,model mismatch,REB-S,4,0,0
+E2,model mismatch,REB-S,4,0,0
+E2,model mismatch,REB-S,4,1,1
+E2,model mismatch,REB-S,4,1,1
+E2,model mismatch,REB-S,4,0,0
+E2,model mismatch,REB-S,4,0,0
+E2,model mismatch,REB-S,4,0,0
+E2,model mismatch,REB-S,4,0,0
+E2,model mismatch,REB-S,4,1,0
+E2,model mismatch,REB-S,4,0,0
+E2,model mismatch,REB-S,4,1,1
+E2,model mismatch,REB-S,4,1,0
+E2,model mismatch,REB-S,4,1,1
+E2,model mismatch,REB-S,5,0,0
+E2,model mismatch,REB-S,5,0,0
+E2,model mismatch,REB-S,5,0,1
+E2,model mismatch,REB-S,5,0,0
+E2,model mismatch,REB-S,5,0,0
+E2,model mismatch,REB-S,5,1,1
+E2,model mismatch,REB-S,5,0,0
+E2,model mismatch,REB-S,5,1,0
+E2,model mismatch,REB-S,5,1,0
+E2,model mismatch,REB-S,5,0,1
+E2,model mismatch,REB-S,5,0,1
+E2,model mismatch,REB-S,5,1,0
+E2,model mismatch,REB-S,5,0,1
+E2,model mismatch,REB-S,5,0,0
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,6,0,1
+E2,model mismatch,REB-S,6,1,1
+E2,model mismatch,REB-S,6,1,1
+E2,model mismatch,REB-S,6,1,1
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,6,1,1
+E2,model mismatch,REB-S,6,0,0
+E2,model mismatch,REB-S,7,0,0
+E2,model mismatch,REB-S,7,0,0
+E2,model mismatch,REB-S,7,0,0
+E2,model mismatch,REB-S,7,1,0
+E2,model mismatch,REB-S,7,1,0
+E2,model mismatch,REB-S,7,0,0
+E2,model mismatch,REB-S,7,0,0
+E2,model mismatch,REB-S,7,1,0
+E2,model mismatch,REB-S,7,1,0
+E2,model mismatch,REB-S,7,1,0
+E2,model mismatch,REB-S,7,1,1
+E2,model mismatch,REB-S,7,0,1
+E2,model mismatch,REB-S,7,0,0
+E2,model mismatch,REB-S,7,1,1
+E2,model mismatch,REB-S,8,0,0
+E2,model mismatch,REB-S,8,0,0
+E2,model mismatch,REB-S,8,0,0
+E2,model mismatch,REB-S,8,1,1
+E2,model mismatch,REB-S,8,0,0
+E2,model mismatch,REB-S,8,1,0
+E2,model mismatch,REB-S,8,0,0
+E2,model mismatch,REB-S,8,1,1
+E2,model mismatch,REB-S,8,1,0
+E2,model mismatch,REB-S,8,1,0
+E2,model mismatch,REB-S,8,0,1
+E2,model mismatch,REB-S,8,0,1
+E2,model mismatch,REB-S,8,1,0
+E2,model mismatch,REB-S,8,1,1
+E2,model mismatch,REB-S,9,0,0
+E2,model mismatch,REB-S,9,0,0
+E2,model mismatch,REB-S,9,0,1
+E2,model mismatch,REB-S,9,0,0
+E2,model mismatch,REB-S,9,1,0
+E2,model mismatch,REB-S,9,0,0
+E2,model mismatch,REB-S,9,1,1
+E2,model mismatch,REB-S,9,1,0
+E2,model mismatch,REB-S,9,1,0
+E2,model mismatch,REB-S,9,0,1
+E2,model mismatch,REB-S,9,0,0
+E2,model mismatch,REB-S,9,0,0
+E2,model mismatch,REB-S,9,1,1
+E2,model mismatch,REB-S,9,0,0
+E2,model mismatch,REB-S,10,0,0
+E2,model mismatch,REB-S,10,0,0
+E2,model mismatch,REB-S,10,1,0
+E2,model mismatch,REB-S,10,0,0
+E2,model mismatch,REB-S,10,1,1
+E2,model mismatch,REB-S,10,0,0
+E2,model mismatch,REB-S,10,0,0
+E2,model mismatch,REB-S,10,0,0
+E2,model mismatch,REB-S,10,0,0
+E2,model mismatch,REB-S,10,0,0
+E2,model mismatch,REB-S,10,0,1
+E2,model mismatch,REB-S,10,1,1
+E2,model mismatch,REB-S,10,1,1
+E2,model mismatch,REB-S,10,1,0
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,1,1
+E2,model mismatch,REB-S,11,1,1
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,0,0
+E2,model mismatch,REB-S,11,0,1
+E2,model mismatch,REB-S,11,1,1
+E2,model mismatch,REB-S,11,1,0
+E2,model mismatch,REB-S,12,0,0
+E2,model mismatch,REB-S,12,0,0
+E2,model mismatch,REB-S,12,0,0
+E2,model mismatch,REB-S,12,0,1
+E2,model mismatch,REB-S,12,0,0
+E2,model mismatch,REB-S,12,1,1
+E2,model mismatch,REB-S,12,0,0
+E2,model mismatch,REB-S,12,1,0
+E2,model mismatch,REB-S,12,0,0
+E2,model mismatch,REB-S,12,0,0
+E2,model mismatch,REB-S,12,0,1
+E2,model mismatch,REB-S,12,0,1
+E2,model mismatch,REB-S,12,1,1
+E2,model mismatch,REB-S,12,1,0
+E2,model mismatch,REB-S,13,0,1
+E2,model mismatch,REB-S,13,0,0
+E2,model mismatch,REB-S,13,0,0
+E2,model mismatch,REB-S,13,0,0
+E2,model mismatch,REB-S,13,0,0
+E2,model mismatch,REB-S,13,1,0
+E2,model mismatch,REB-S,13,0,1
+E2,model mismatch,REB-S,13,0,0
+E2,model mismatch,REB-S,13,0,0
+E2,model mismatch,REB-S,13,1,0
+E2,model mismatch,REB-S,13,0,0
+E2,model mismatch,REB-S,13,1,0
+E2,model mismatch,REB-S,13,1,0
+E2,model mismatch,REB-S,14,0,0
+E2,model mismatch,REB-S,14,0,0
+E2,model mismatch,REB-S,14,1,0
+E2,model mismatch,REB-S,14,1,1
+E2,model mismatch,REB-S,14,0,0
+E2,model mismatch,REB-S,14,0,1
+E2,model mismatch,REB-S,14,1,0
+E2,model mismatch,REB-S,14,0,1
+E2,model mismatch,REB-S,14,0,0
+E2,model mismatch,REB-S,14,0,0
+E2,model mismatch,REB-S,14,1,0
+E2,model mismatch,REB-S,14,1,1
+E2,model mismatch,REB-S,14,1,0
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,15,1,0
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,15,1,1
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,15,1,1
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,15,1,0
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,15,1,1
+E2,model mismatch,REB-S,15,0,0
+E2,model mismatch,REB-S,16,0,0
+E2,model mismatch,REB-S,16,0,0
+E2,model mismatch,REB-S,16,1,1
+E2,model mismatch,REB-S,16,1,0
+E2,model mismatch,REB-S,16,0,0
+E2,model mismatch,REB-S,16,0,0
+E2,model mismatch,REB-S,16,1,0
+E2,model mismatch,REB-S,16,0,1
+E2,model mismatch,REB-S,16,0,0
+E2,model mismatch,REB-S,16,0,0
+E2,model mismatch,REB-S,16,1,0
+E2,model mismatch,REB-S,16,0,0
+E2,model mismatch,REB-S,16,0,0
+E2,model mismatch,REB-S,17,0,0
+E2,model mismatch,REB-S,17,0,0
+E2,model mismatch,REB-S,17,0,1
+E2,model mismatch,REB-S,17,1,1
+E2,model mismatch,REB-S,17,1,0
+E2,model mismatch,REB-S,17,0,0
+E2,model mismatch,REB-S,17,0,0
+E2,model mismatch,REB-S,17,0,0
+E2,model mismatch,REB-S,17,0,1
+E2,model mismatch,REB-S,17,0,0
+E2,model mismatch,REB-S,17,0,0
+E2,model mismatch,REB-S,17,1,0
+E2,model mismatch,REB-S,17,1,1
+E2,model mismatch,REB-S,18,0,0
+E2,model mismatch,REB-S,18,0,0
+E2,model mismatch,REB-S,18,0,0
+E2,model mismatch,REB-S,18,0,1
+E2,model mismatch,REB-S,18,1,0
+E2,model mismatch,REB-S,18,0,0
+E2,model mismatch,REB-S,18,0,0
+E2,model mismatch,REB-S,18,0,1
+E2,model mismatch,REB-S,18,1,0
+E2,model mismatch,REB-S,18,0,0
+E2,model mismatch,REB-S,18,1,0
+E2,model mismatch,REB-S,18,0,0
+E2,model mismatch,REB-S,18,1,1
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,1,0
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,0,1
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,1,1
+E2,model mismatch,REB-S,19,1,1
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,19,0,0
+E2,model mismatch,REB-S,20,0,0
+E2,model mismatch,REB-S,20,0,0
+E2,model mismatch,REB-S,20,1,1
+E2,model mismatch,REB-S,20,1,1
+E2,model mismatch,REB-S,20,1,0
+E2,model mismatch,REB-S,20,0,0
+E2,model mismatch,REB-S,20,0,0
+E2,model mismatch,REB-S,20,1,1
+E2,model mismatch,REB-S,20,1,0
+E2,model mismatch,REB-S,20,1,0
+E2,model mismatch,REB-S,20,1,0
+E2,model mismatch,REB-S,20,1,0
+E2,model mismatch,REB-S,20,1,1
+E2,mismatch + noise,B2,1,0,0
+E2,mismatch + noise,B2,1,0,0
+E2,mismatch + noise,B2,1,0,0
+E2,mismatch + noise,B2,1,0,0
+E2,mismatch + noise,B2,1,1,0
+E2,mismatch + noise,B2,1,1,0
+E2,mismatch + noise,B2,1,0,0
+E2,mismatch + noise,B2,1,0,1
+E2,mismatch + noise,B2,1,0,0
+E2,mismatch + noise,B2,1,1,0
+E2,mismatch + noise,B2,1,1,0
+E2,mismatch + noise,B2,1,0,1
+E2,mismatch + noise,B2,1,1,1
+E2,mismatch + noise,B2,1,0,0
+E2,mismatch + noise,B2,2,0,0
+E2,mismatch + noise,B2,2,0,0
+E2,mismatch + noise,B2,2,1,1
+E2,mismatch + noise,B2,2,1,0
+E2,mismatch + noise,B2,2,0,0
+E2,mismatch + noise,B2,2,0,1
+E2,mismatch + noise,B2,2,0,0
+E2,mismatch + noise,B2,2,1,0
+E2,mismatch + noise,B2,2,1,0
+E2,mismatch + noise,B2,2,1,1
+E2,mismatch + noise,B2,2,1,1
+E2,mismatch + noise,B2,2,1,1
+E2,mismatch + noise,B2,2,0,0
+E2,mismatch + noise,B2,3,0,0
+E2,mismatch + noise,B2,3,0,0
+E2,mismatch + noise,B2,3,0,0
+E2,mismatch + noise,B2,3,1,1
+E2,mismatch + noise,B2,3,0,0
+E2,mismatch + noise,B2,3,1,1
+E2,mismatch + noise,B2,3,1,1
+E2,mismatch + noise,B2,3,1,0
+E2,mismatch + noise,B2,3,0,0
+E2,mismatch + noise,B2,3,0,0
+E2,mismatch + noise,B2,3,1,1
+E2,mismatch + noise,B2,3,0,0
+E2,mismatch + noise,B2,3,0,0
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,1,1
+E2,mismatch + noise,B2,4,1,1
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,1,0
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,0,1
+E2,mismatch + noise,B2,4,0,0
+E2,mismatch + noise,B2,4,0,1
+E2,mismatch + noise,B2,5,0,0
+E2,mismatch + noise,B2,5,0,0
+E2,mismatch + noise,B2,5,0,1
+E2,mismatch + noise,B2,5,0,0
+E2,mismatch + noise,B2,5,0,0
+E2,mismatch + noise,B2,5,1,1
+E2,mismatch + noise,B2,5,0,0
+E2,mismatch + noise,B2,5,1,0
+E2,mismatch + noise,B2,5,1,0
+E2,mismatch + noise,B2,5,0,1
+E2,mismatch + noise,B2,5,1,1
+E2,mismatch + noise,B2,5,1,0
+E2,mismatch + noise,B2,5,0,1
+E2,mismatch + noise,B2,5,0,0
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,6,0,1
+E2,mismatch + noise,B2,6,1,1
+E2,mismatch + noise,B2,6,0,1
+E2,mismatch + noise,B2,6,0,1
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,6,1,1
+E2,mismatch + noise,B2,6,0,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,1,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,1
+E2,mismatch + noise,B2,7,0,1
+E2,mismatch + noise,B2,7,0,0
+E2,mismatch + noise,B2,7,0,1
+E2,mismatch + noise,B2,8,0,0
+E2,mismatch + noise,B2,8,0,0
+E2,mismatch + noise,B2,8,0,0
+E2,mismatch + noise,B2,8,1,1
+E2,mismatch + noise,B2,8,0,0
+E2,mismatch + noise,B2,8,0,0
+E2,mismatch + noise,B2,8,0,0
+E2,mismatch + noise,B2,8,1,1
+E2,mismatch + noise,B2,8,1,0
+E2,mismatch + noise,B2,8,1,0
+E2,mismatch + noise,B2,8,0,1
+E2,mismatch + noise,B2,8,0,1
+E2,mismatch + noise,B2,8,0,0
+E2,mismatch + noise,B2,8,1,1
+E2,mismatch + noise,B2,9,0,0
+E2,mismatch + noise,B2,9,0,0
+E2,mismatch + noise,B2,9,0,1
+E2,mismatch + noise,B2,9,0,0
+E2,mismatch + noise,B2,9,0,0
+E2,mismatch + noise,B2,9,1,0
+E2,mismatch + noise,B2,9,1,1
+E2,mismatch + noise,B2,9,1,0
+E2,mismatch + noise,B2,9,1,0
+E2,mismatch + noise,B2,9,1,1
+E2,mismatch + noise,B2,9,0,0
+E2,mismatch + noise,B2,9,0,0
+E2,mismatch + noise,B2,9,0,1
+E2,mismatch + noise,B2,9,0,0
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,10,1,0
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,10,0,1
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,10,0,1
+E2,mismatch + noise,B2,10,0,1
+E2,mismatch + noise,B2,10,1,1
+E2,mismatch + noise,B2,10,0,0
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,0,1
+E2,mismatch + noise,B2,11,0,1
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,11,1,1
+E2,mismatch + noise,B2,11,1,1
+E2,mismatch + noise,B2,11,0,0
+E2,mismatch + noise,B2,12,0,0
+E2,mismatch + noise,B2,12,0,0
+E2,mismatch + noise,B2,12,0,0
+E2,mismatch + noise,B2,12,1,1
+E2,mismatch + noise,B2,12,0,0
+E2,mismatch + noise,B2,12,0,1
+E2,mismatch + noise,B2,12,0,0
+E2,mismatch + noise,B2,12,1,0
+E2,mismatch + noise,B2,12,0,0
+E2,mismatch + noise,B2,12,0,0
+E2,mismatch + noise,B2,12,1,1
+E2,mismatch + noise,B2,12,1,1
+E2,mismatch + noise,B2,12,0,1
+E2,mismatch + noise,B2,12,0,0
+E2,mismatch + noise,B2,13,0,1
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,1,1
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,1,0
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,13,0,0
+E2,mismatch + noise,B2,14,0,0
+E2,mismatch + noise,B2,14,0,0
+E2,mismatch + noise,B2,14,0,0
+E2,mismatch + noise,B2,14,1,1
+E2,mismatch + noise,B2,14,0,0
+E2,mismatch + noise,B2,14,1,1
+E2,mismatch + noise,B2,14,0,0
+E2,mismatch + noise,B2,14,0,1
+E2,mismatch + noise,B2,14,0,0
+E2,mismatch + noise,B2,14,0,0
+E2,mismatch + noise,B2,14,1,0
+E2,mismatch + noise,B2,14,1,1
+E2,mismatch + noise,B2,14,0,0
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,15,1,0
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,15,1,1
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,15,1,1
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,15,1,0
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,15,1,1
+E2,mismatch + noise,B2,15,0,0
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,16,1,1
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,16,1,0
+E2,mismatch + noise,B2,16,1,1
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,16,1,0
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,16,0,0
+E2,mismatch + noise,B2,17,0,0
+E2,mismatch + noise,B2,17,0,0
+E2,mismatch + noise,B2,17,1,1
+E2,mismatch + noise,B2,17,1,1
+E2,mismatch + noise,B2,17,1,0
+E2,mismatch + noise,B2,17,0,0
+E2,mismatch + noise,B2,17,0,0
+E2,mismatch + noise,B2,17,0,0
+E2,mismatch + noise,B2,17,0,1
+E2,mismatch + noise,B2,17,0,0
+E2,mismatch + noise,B2,17,0,0
+E2,mismatch + noise,B2,17,0,0
+E2,mismatch + noise,B2,17,0,1
+E2,mismatch + noise,B2,18,0,0
+E2,mismatch + noise,B2,18,0,0
+E2,mismatch + noise,B2,18,0,0
+E2,mismatch + noise,B2,18,1,1
+E2,mismatch + noise,B2,18,1,0
+E2,mismatch + noise,B2,18,0,0
+E2,mismatch + noise,B2,18,0,0
+E2,mismatch + noise,B2,18,1,1
+E2,mismatch + noise,B2,18,1,0
+E2,mismatch + noise,B2,18,0,0
+E2,mismatch + noise,B2,18,1,0
+E2,mismatch + noise,B2,18,0,0
+E2,mismatch + noise,B2,18,1,1
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,19,1,0
+E2,mismatch + noise,B2,19,1,0
+E2,mismatch + noise,B2,19,1,1
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,19,1,1
+E2,mismatch + noise,B2,19,1,1
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,19,0,0
+E2,mismatch + noise,B2,20,0,0
+E2,mismatch + noise,B2,20,0,0
+E2,mismatch + noise,B2,20,0,1
+E2,mismatch + noise,B2,20,1,1
+E2,mismatch + noise,B2,20,1,0
+E2,mismatch + noise,B2,20,0,0
+E2,mismatch + noise,B2,20,0,0
+E2,mismatch + noise,B2,20,0,1
+E2,mismatch + noise,B2,20,1,0
+E2,mismatch + noise,B2,20,0,0
+E2,mismatch + noise,B2,20,1,0
+E2,mismatch + noise,B2,20,0,0
+E2,mismatch + noise,B2,20,1,1
+E2,mismatch + noise,B2+BD,1,0,0
+E2,mismatch + noise,B2+BD,1,0,0
+E2,mismatch + noise,B2+BD,1,0,0
+E2,mismatch + noise,B2+BD,1,0,0
+E2,mismatch + noise,B2+BD,1,1,0
+E2,mismatch + noise,B2+BD,1,1,0
+E2,mismatch + noise,B2+BD,1,0,0
+E2,mismatch + noise,B2+BD,1,0,1
+E2,mismatch + noise,B2+BD,1,0,0
+E2,mismatch + noise,B2+BD,1,1,0
+E2,mismatch + noise,B2+BD,1,1,0
+E2,mismatch + noise,B2+BD,1,0,1
+E2,mismatch + noise,B2+BD,1,1,1
+E2,mismatch + noise,B2+BD,1,0,0
+E2,mismatch + noise,B2+BD,2,0,0
+E2,mismatch + noise,B2+BD,2,0,0
+E2,mismatch + noise,B2+BD,2,1,1
+E2,mismatch + noise,B2+BD,2,1,0
+E2,mismatch + noise,B2+BD,2,0,0
+E2,mismatch + noise,B2+BD,2,0,1
+E2,mismatch + noise,B2+BD,2,0,0
+E2,mismatch + noise,B2+BD,2,1,0
+E2,mismatch + noise,B2+BD,2,1,0
+E2,mismatch + noise,B2+BD,2,1,1
+E2,mismatch + noise,B2+BD,2,1,1
+E2,mismatch + noise,B2+BD,2,1,1
+E2,mismatch + noise,B2+BD,2,0,0
+E2,mismatch + noise,B2+BD,3,0,0
+E2,mismatch + noise,B2+BD,3,0,0
+E2,mismatch + noise,B2+BD,3,0,0
+E2,mismatch + noise,B2+BD,3,1,1
+E2,mismatch + noise,B2+BD,3,0,0
+E2,mismatch + noise,B2+BD,3,1,1
+E2,mismatch + noise,B2+BD,3,1,1
+E2,mismatch + noise,B2+BD,3,1,0
+E2,mismatch + noise,B2+BD,3,0,0
+E2,mismatch + noise,B2+BD,3,0,0
+E2,mismatch + noise,B2+BD,3,1,1
+E2,mismatch + noise,B2+BD,3,0,0
+E2,mismatch + noise,B2+BD,3,0,0
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,1,1
+E2,mismatch + noise,B2+BD,4,1,1
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,1,0
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,0,1
+E2,mismatch + noise,B2+BD,4,0,0
+E2,mismatch + noise,B2+BD,4,0,1
+E2,mismatch + noise,B2+BD,5,0,0
+E2,mismatch + noise,B2+BD,5,0,0
+E2,mismatch + noise,B2+BD,5,0,1
+E2,mismatch + noise,B2+BD,5,0,0
+E2,mismatch + noise,B2+BD,5,0,0
+E2,mismatch + noise,B2+BD,5,1,1
+E2,mismatch + noise,B2+BD,5,0,0
+E2,mismatch + noise,B2+BD,5,1,0
+E2,mismatch + noise,B2+BD,5,1,0
+E2,mismatch + noise,B2+BD,5,0,1
+E2,mismatch + noise,B2+BD,5,1,1
+E2,mismatch + noise,B2+BD,5,1,0
+E2,mismatch + noise,B2+BD,5,0,1
+E2,mismatch + noise,B2+BD,5,0,0
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,6,0,1
+E2,mismatch + noise,B2+BD,6,1,1
+E2,mismatch + noise,B2+BD,6,0,1
+E2,mismatch + noise,B2+BD,6,0,1
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,6,1,1
+E2,mismatch + noise,B2+BD,6,0,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,1,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,1
+E2,mismatch + noise,B2+BD,7,0,1
+E2,mismatch + noise,B2+BD,7,0,0
+E2,mismatch + noise,B2+BD,7,0,1
+E2,mismatch + noise,B2+BD,8,0,0
+E2,mismatch + noise,B2+BD,8,0,0
+E2,mismatch + noise,B2+BD,8,0,0
+E2,mismatch + noise,B2+BD,8,1,1
+E2,mismatch + noise,B2+BD,8,0,0
+E2,mismatch + noise,B2+BD,8,0,0
+E2,mismatch + noise,B2+BD,8,0,0
+E2,mismatch + noise,B2+BD,8,1,1
+E2,mismatch + noise,B2+BD,8,1,0
+E2,mismatch + noise,B2+BD,8,1,0
+E2,mismatch + noise,B2+BD,8,0,1
+E2,mismatch + noise,B2+BD,8,0,1
+E2,mismatch + noise,B2+BD,8,0,0
+E2,mismatch + noise,B2+BD,8,1,1
+E2,mismatch + noise,B2+BD,9,0,0
+E2,mismatch + noise,B2+BD,9,0,0
+E2,mismatch + noise,B2+BD,9,0,1
+E2,mismatch + noise,B2+BD,9,0,0
+E2,mismatch + noise,B2+BD,9,0,0
+E2,mismatch + noise,B2+BD,9,1,0
+E2,mismatch + noise,B2+BD,9,1,1
+E2,mismatch + noise,B2+BD,9,1,0
+E2,mismatch + noise,B2+BD,9,1,0
+E2,mismatch + noise,B2+BD,9,1,1
+E2,mismatch + noise,B2+BD,9,0,0
+E2,mismatch + noise,B2+BD,9,0,0
+E2,mismatch + noise,B2+BD,9,0,1
+E2,mismatch + noise,B2+BD,9,0,0
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,10,1,0
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,10,0,1
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,10,0,1
+E2,mismatch + noise,B2+BD,10,0,1
+E2,mismatch + noise,B2+BD,10,1,1
+E2,mismatch + noise,B2+BD,10,0,0
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,0,1
+E2,mismatch + noise,B2+BD,11,0,1
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,11,1,1
+E2,mismatch + noise,B2+BD,11,1,1
+E2,mismatch + noise,B2+BD,11,0,0
+E2,mismatch + noise,B2+BD,12,0,0
+E2,mismatch + noise,B2+BD,12,0,0
+E2,mismatch + noise,B2+BD,12,0,0
+E2,mismatch + noise,B2+BD,12,1,1
+E2,mismatch + noise,B2+BD,12,0,0
+E2,mismatch + noise,B2+BD,12,0,1
+E2,mismatch + noise,B2+BD,12,0,0
+E2,mismatch + noise,B2+BD,12,1,0
+E2,mismatch + noise,B2+BD,12,0,0
+E2,mismatch + noise,B2+BD,12,0,0
+E2,mismatch + noise,B2+BD,12,1,1
+E2,mismatch + noise,B2+BD,12,1,1
+E2,mismatch + noise,B2+BD,12,0,1
+E2,mismatch + noise,B2+BD,12,0,0
+E2,mismatch + noise,B2+BD,13,0,1
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,1,1
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,1,0
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,13,0,0
+E2,mismatch + noise,B2+BD,14,0,0
+E2,mismatch + noise,B2+BD,14,0,0
+E2,mismatch + noise,B2+BD,14,0,0
+E2,mismatch + noise,B2+BD,14,1,1
+E2,mismatch + noise,B2+BD,14,0,0
+E2,mismatch + noise,B2+BD,14,1,1
+E2,mismatch + noise,B2+BD,14,0,0
+E2,mismatch + noise,B2+BD,14,0,1
+E2,mismatch + noise,B2+BD,14,0,0
+E2,mismatch + noise,B2+BD,14,0,0
+E2,mismatch + noise,B2+BD,14,1,0
+E2,mismatch + noise,B2+BD,14,1,1
+E2,mismatch + noise,B2+BD,14,0,0
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,15,1,0
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,15,1,1
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,15,1,1
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,15,1,0
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,15,1,1
+E2,mismatch + noise,B2+BD,15,0,0
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,16,1,1
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,16,1,0
+E2,mismatch + noise,B2+BD,16,1,1
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,16,1,0
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,16,0,0
+E2,mismatch + noise,B2+BD,17,0,0
+E2,mismatch + noise,B2+BD,17,0,0
+E2,mismatch + noise,B2+BD,17,1,1
+E2,mismatch + noise,B2+BD,17,1,1
+E2,mismatch + noise,B2+BD,17,1,0
+E2,mismatch + noise,B2+BD,17,0,0
+E2,mismatch + noise,B2+BD,17,0,0
+E2,mismatch + noise,B2+BD,17,0,0
+E2,mismatch + noise,B2+BD,17,0,1
+E2,mismatch + noise,B2+BD,17,0,0
+E2,mismatch + noise,B2+BD,17,0,0
+E2,mismatch + noise,B2+BD,17,0,0
+E2,mismatch + noise,B2+BD,17,0,1
+E2,mismatch + noise,B2+BD,18,0,0
+E2,mismatch + noise,B2+BD,18,0,0
+E2,mismatch + noise,B2+BD,18,0,0
+E2,mismatch + noise,B2+BD,18,1,1
+E2,mismatch + noise,B2+BD,18,1,0
+E2,mismatch + noise,B2+BD,18,0,0
+E2,mismatch + noise,B2+BD,18,0,0
+E2,mismatch + noise,B2+BD,18,1,1
+E2,mismatch + noise,B2+BD,18,1,0
+E2,mismatch + noise,B2+BD,18,0,0
+E2,mismatch + noise,B2+BD,18,1,0
+E2,mismatch + noise,B2+BD,18,0,0
+E2,mismatch + noise,B2+BD,18,1,1
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,19,1,0
+E2,mismatch + noise,B2+BD,19,1,0
+E2,mismatch + noise,B2+BD,19,1,1
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,19,1,1
+E2,mismatch + noise,B2+BD,19,1,1
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,19,0,0
+E2,mismatch + noise,B2+BD,20,0,0
+E2,mismatch + noise,B2+BD,20,0,0
+E2,mismatch + noise,B2+BD,20,0,1
+E2,mismatch + noise,B2+BD,20,1,1
+E2,mismatch + noise,B2+BD,20,1,0
+E2,mismatch + noise,B2+BD,20,0,0
+E2,mismatch + noise,B2+BD,20,0,0
+E2,mismatch + noise,B2+BD,20,0,1
+E2,mismatch + noise,B2+BD,20,1,0
+E2,mismatch + noise,B2+BD,20,0,0
+E2,mismatch + noise,B2+BD,20,1,0
+E2,mismatch + noise,B2+BD,20,0,0
+E2,mismatch + noise,B2+BD,20,1,1
+E2,mismatch + noise,REB-S,1,0,0
+E2,mismatch + noise,REB-S,1,0,0
+E2,mismatch + noise,REB-S,1,0,0
+E2,mismatch + noise,REB-S,1,0,0
+E2,mismatch + noise,REB-S,1,1,0
+E2,mismatch + noise,REB-S,1,0,0
+E2,mismatch + noise,REB-S,1,1,0
+E2,mismatch + noise,REB-S,1,0,1
+E2,mismatch + noise,REB-S,1,0,0
+E2,mismatch + noise,REB-S,1,1,0
+E2,mismatch + noise,REB-S,1,1,0
+E2,mismatch + noise,REB-S,1,1,1
+E2,mismatch + noise,REB-S,1,1,1
+E2,mismatch + noise,REB-S,1,1,0
+E2,mismatch + noise,REB-S,2,0,0
+E2,mismatch + noise,REB-S,2,0,0
+E2,mismatch + noise,REB-S,2,1,1
+E2,mismatch + noise,REB-S,2,1,0
+E2,mismatch + noise,REB-S,2,1,0
+E2,mismatch + noise,REB-S,2,1,1
+E2,mismatch + noise,REB-S,2,1,0
+E2,mismatch + noise,REB-S,2,1,0
+E2,mismatch + noise,REB-S,2,1,0
+E2,mismatch + noise,REB-S,2,0,1
+E2,mismatch + noise,REB-S,2,1,1
+E2,mismatch + noise,REB-S,2,1,1
+E2,mismatch + noise,REB-S,2,0,0
+E2,mismatch + noise,REB-S,3,0,0
+E2,mismatch + noise,REB-S,3,0,0
+E2,mismatch + noise,REB-S,3,0,0
+E2,mismatch + noise,REB-S,3,1,1
+E2,mismatch + noise,REB-S,3,1,0
+E2,mismatch + noise,REB-S,3,0,1
+E2,mismatch + noise,REB-S,3,1,1
+E2,mismatch + noise,REB-S,3,1,0
+E2,mismatch + noise,REB-S,3,0,0
+E2,mismatch + noise,REB-S,3,0,0
+E2,mismatch + noise,REB-S,3,1,1
+E2,mismatch + noise,REB-S,3,0,0
+E2,mismatch + noise,REB-S,3,1,0
+E2,mismatch + noise,REB-S,4,0,0
+E2,mismatch + noise,REB-S,4,0,0
+E2,mismatch + noise,REB-S,4,0,0
+E2,mismatch + noise,REB-S,4,1,1
+E2,mismatch + noise,REB-S,4,1,1
+E2,mismatch + noise,REB-S,4,0,0
+E2,mismatch + noise,REB-S,4,0,0
+E2,mismatch + noise,REB-S,4,0,0
+E2,mismatch + noise,REB-S,4,0,0
+E2,mismatch + noise,REB-S,4,1,0
+E2,mismatch + noise,REB-S,4,0,0
+E2,mismatch + noise,REB-S,4,1,1
+E2,mismatch + noise,REB-S,4,1,0
+E2,mismatch + noise,REB-S,4,1,1
+E2,mismatch + noise,REB-S,5,0,0
+E2,mismatch + noise,REB-S,5,0,0
+E2,mismatch + noise,REB-S,5,0,1
+E2,mismatch + noise,REB-S,5,0,0
+E2,mismatch + noise,REB-S,5,0,0
+E2,mismatch + noise,REB-S,5,1,1
+E2,mismatch + noise,REB-S,5,0,0
+E2,mismatch + noise,REB-S,5,1,0
+E2,mismatch + noise,REB-S,5,1,0
+E2,mismatch + noise,REB-S,5,1,1
+E2,mismatch + noise,REB-S,5,0,1
+E2,mismatch + noise,REB-S,5,1,0
+E2,mismatch + noise,REB-S,5,0,1
+E2,mismatch + noise,REB-S,5,0,0
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,6,0,1
+E2,mismatch + noise,REB-S,6,1,1
+E2,mismatch + noise,REB-S,6,1,1
+E2,mismatch + noise,REB-S,6,1,1
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,6,1,1
+E2,mismatch + noise,REB-S,6,0,0
+E2,mismatch + noise,REB-S,7,0,0
+E2,mismatch + noise,REB-S,7,0,0
+E2,mismatch + noise,REB-S,7,0,0
+E2,mismatch + noise,REB-S,7,1,0
+E2,mismatch + noise,REB-S,7,1,0
+E2,mismatch + noise,REB-S,7,0,0
+E2,mismatch + noise,REB-S,7,1,0
+E2,mismatch + noise,REB-S,7,1,0
+E2,mismatch + noise,REB-S,7,1,0
+E2,mismatch + noise,REB-S,7,0,0
+E2,mismatch + noise,REB-S,7,1,1
+E2,mismatch + noise,REB-S,7,1,1
+E2,mismatch + noise,REB-S,7,1,0
+E2,mismatch + noise,REB-S,7,1,1
+E2,mismatch + noise,REB-S,8,0,0
+E2,mismatch + noise,REB-S,8,0,0
+E2,mismatch + noise,REB-S,8,1,0
+E2,mismatch + noise,REB-S,8,1,1
+E2,mismatch + noise,REB-S,8,0,0
+E2,mismatch + noise,REB-S,8,1,0
+E2,mismatch + noise,REB-S,8,0,0
+E2,mismatch + noise,REB-S,8,0,1
+E2,mismatch + noise,REB-S,8,1,0
+E2,mismatch + noise,REB-S,8,1,0
+E2,mismatch + noise,REB-S,8,0,1
+E2,mismatch + noise,REB-S,8,0,1
+E2,mismatch + noise,REB-S,8,1,0
+E2,mismatch + noise,REB-S,8,1,1
+E2,mismatch + noise,REB-S,9,0,0
+E2,mismatch + noise,REB-S,9,0,0
+E2,mismatch + noise,REB-S,9,1,1
+E2,mismatch + noise,REB-S,9,0,0
+E2,mismatch + noise,REB-S,9,1,0
+E2,mismatch + noise,REB-S,9,1,0
+E2,mismatch + noise,REB-S,9,1,1
+E2,mismatch + noise,REB-S,9,1,0
+E2,mismatch + noise,REB-S,9,1,0
+E2,mismatch + noise,REB-S,9,0,1
+E2,mismatch + noise,REB-S,9,0,0
+E2,mismatch + noise,REB-S,9,0,0
+E2,mismatch + noise,REB-S,9,1,1
+E2,mismatch + noise,REB-S,9,0,0
+E2,mismatch + noise,REB-S,10,0,0
+E2,mismatch + noise,REB-S,10,0,0
+E2,mismatch + noise,REB-S,10,1,0
+E2,mismatch + noise,REB-S,10,0,0
+E2,mismatch + noise,REB-S,10,0,1
+E2,mismatch + noise,REB-S,10,0,0
+E2,mismatch + noise,REB-S,10,1,0
+E2,mismatch + noise,REB-S,10,0,0
+E2,mismatch + noise,REB-S,10,0,0
+E2,mismatch + noise,REB-S,10,0,0
+E2,mismatch + noise,REB-S,10,1,1
+E2,mismatch + noise,REB-S,10,1,1
+E2,mismatch + noise,REB-S,10,1,1
+E2,mismatch + noise,REB-S,10,1,0
+E2,mismatch + noise,REB-S,11,0,0
+E2,mismatch + noise,REB-S,11,0,0
+E2,mismatch + noise,REB-S,11,0,0
+E2,mismatch + noise,REB-S,11,0,0
+E2,mismatch + noise,REB-S,11,1,0
+E2,mismatch + noise,REB-S,11,0,0
+E2,mismatch + noise,REB-S,11,0,0
+E2,mismatch + noise,REB-S,11,1,1
+E2,mismatch + noise,REB-S,11,1,1
+E2,mismatch + noise,REB-S,11,0,0
+E2,mismatch + noise,REB-S,11,0,0
+E2,mismatch + noise,REB-S,11,0,1
+E2,mismatch + noise,REB-S,11,1,1
+E2,mismatch + noise,REB-S,11,1,0
+E2,mismatch + noise,REB-S,12,0,0
+E2,mismatch + noise,REB-S,12,0,0
+E2,mismatch + noise,REB-S,12,0,0
+E2,mismatch + noise,REB-S,12,0,1
+E2,mismatch + noise,REB-S,12,0,0
+E2,mismatch + noise,REB-S,12,1,1
+E2,mismatch + noise,REB-S,12,0,0
+E2,mismatch + noise,REB-S,12,1,0
+E2,mismatch + noise,REB-S,12,0,0
+E2,mismatch + noise,REB-S,12,0,0
+E2,mismatch + noise,REB-S,12,0,1
+E2,mismatch + noise,REB-S,12,1,1
+E2,mismatch + noise,REB-S,12,1,1
+E2,mismatch + noise,REB-S,12,1,0
+E2,mismatch + noise,REB-S,13,0,1
+E2,mismatch + noise,REB-S,13,0,0
+E2,mismatch + noise,REB-S,13,0,0
+E2,mismatch + noise,REB-S,13,0,0
+E2,mismatch + noise,REB-S,13,1,0
+E2,mismatch + noise,REB-S,13,0,0
+E2,mismatch + noise,REB-S,13,0,1
+E2,mismatch + noise,REB-S,13,0,0
+E2,mismatch + noise,REB-S,13,1,0
+E2,mismatch + noise,REB-S,13,1,0
+E2,mismatch + noise,REB-S,13,0,0
+E2,mismatch + noise,REB-S,13,1,0
+E2,mismatch + noise,REB-S,13,1,0
+E2,mismatch + noise,REB-S,14,0,0
+E2,mismatch + noise,REB-S,14,0,0
+E2,mismatch + noise,REB-S,14,0,0
+E2,mismatch + noise,REB-S,14,1,1
+E2,mismatch + noise,REB-S,14,0,0
+E2,mismatch + noise,REB-S,14,0,1
+E2,mismatch + noise,REB-S,14,1,0
+E2,mismatch + noise,REB-S,14,1,1
+E2,mismatch + noise,REB-S,14,0,0
+E2,mismatch + noise,REB-S,14,0,0
+E2,mismatch + noise,REB-S,14,1,0
+E2,mismatch + noise,REB-S,14,1,1
+E2,mismatch + noise,REB-S,14,1,0
+E2,mismatch + noise,REB-S,15,0,0
+E2,mismatch + noise,REB-S,15,0,0
+E2,mismatch + noise,REB-S,15,1,0
+E2,mismatch + noise,REB-S,15,1,0
+E2,mismatch + noise,REB-S,15,1,1
+E2,mismatch + noise,REB-S,15,1,0
+E2,mismatch + noise,REB-S,15,0,0
+E2,mismatch + noise,REB-S,15,1,1
+E2,mismatch + noise,REB-S,15,0,0
+E2,mismatch + noise,REB-S,15,1,0
+E2,mismatch + noise,REB-S,15,1,0
+E2,mismatch + noise,REB-S,15,0,0
+E2,mismatch + noise,REB-S,15,1,1
+E2,mismatch + noise,REB-S,15,1,0
+E2,mismatch + noise,REB-S,16,0,0
+E2,mismatch + noise,REB-S,16,0,0
+E2,mismatch + noise,REB-S,16,1,1
+E2,mismatch + noise,REB-S,16,0,0
+E2,mismatch + noise,REB-S,16,0,0
+E2,mismatch + noise,REB-S,16,0,0
+E2,mismatch + noise,REB-S,16,1,0
+E2,mismatch + noise,REB-S,16,0,1
+E2,mismatch + noise,REB-S,16,0,0
+E2,mismatch + noise,REB-S,16,0,0
+E2,mismatch + noise,REB-S,16,1,0
+E2,mismatch + noise,REB-S,16,0,0
+E2,mismatch + noise,REB-S,16,1,0
+E2,mismatch + noise,REB-S,17,0,0
+E2,mismatch + noise,REB-S,17,0,0
+E2,mismatch + noise,REB-S,17,0,1
+E2,mismatch + noise,REB-S,17,1,1
+E2,mismatch + noise,REB-S,17,1,0
+E2,mismatch + noise,REB-S,17,0,0
+E2,mismatch + noise,REB-S,17,0,0
+E2,mismatch + noise,REB-S,17,0,0
+E2,mismatch + noise,REB-S,17,0,1
+E2,mismatch + noise,REB-S,17,0,0
+E2,mismatch + noise,REB-S,17,0,0
+E2,mismatch + noise,REB-S,17,1,0
+E2,mismatch + noise,REB-S,17,1,1
+E2,mismatch + noise,REB-S,18,0,0
+E2,mismatch + noise,REB-S,18,0,0
+E2,mismatch + noise,REB-S,18,0,0
+E2,mismatch + noise,REB-S,18,0,1
+E2,mismatch + noise,REB-S,18,1,0
+E2,mismatch + noise,REB-S,18,0,0
+E2,mismatch + noise,REB-S,18,0,0
+E2,mismatch + noise,REB-S,18,1,1
+E2,mismatch + noise,REB-S,18,1,0
+E2,mismatch + noise,REB-S,18,0,0
+E2,mismatch + noise,REB-S,18,1,0
+E2,mismatch + noise,REB-S,18,0,0
+E2,mismatch + noise,REB-S,18,1,1
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,1,0
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,1,1
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,1,1
+E2,mismatch + noise,REB-S,19,1,1
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,0,0
+E2,mismatch + noise,REB-S,19,1,0
+E2,mismatch + noise,REB-S,20,0,0
+E2,mismatch + noise,REB-S,20,0,0
+E2,mismatch + noise,REB-S,20,1,1
+E2,mismatch + noise,REB-S,20,1,1
+E2,mismatch + noise,REB-S,20,1,0
+E2,mismatch + noise,REB-S,20,1,0
+E2,mismatch + noise,REB-S,20,1,0
+E2,mismatch + noise,REB-S,20,1,1
+E2,mismatch + noise,REB-S,20,1,0
+E2,mismatch + noise,REB-S,20,0,0
+E2,mismatch + noise,REB-S,20,1,0
+E2,mismatch + noise,REB-S,20,1,0
+E2,mismatch + noise,REB-S,20,1,1
