@@ -76,67 +76,6 @@ Hardware/software used to produce the paper's numbers: single CPU core,
 Python 3.12.3, PyTorch 2.13.0, PuLP 3.3.2 (bundled CBC), Linux x86_64 — no
 GPU used or required at these problem sizes (see `results/hardware_info.json`).
 
-## What changed in this (second) revision round
-Round 1 fixed a metric-aggregation bug, re-added explicit MILP binaries, and
-added the state-reconstruction / robust-departure mechanisms. Round 2,
-responding to a second, more detailed review, made these further changes:
-
-- **Found and fixed a second real bug**: the "expected" physics transition
-  used for the detection residual didn't account for SoC saturation, which
-  inflated benign-window residual variance ~8x whenever a trace neared
-  0%/100% SoC (common at BESS-scale C-rates). Fixed by deriving the
-  expected transition from the same saturation-aware trajectory used to
-  generate the "true" SoC, in both training data and the operational
-  simulation. Required retraining both detectors.
-- **Proper train/validation/test separation**: `calibrate.py` now selects
-  every detector's operating point on a validation split only (seed 502),
-  frozen before evaluation on a disjoint test split (seed 501), itself
-  disjoint from the training split (seed 500). Documented in the paper
-  (Section 6.6) including why window-level independence holds (each window
-  is an independently-generated instance, not a sub-window of a shared
-  trajectory).
-- **Added an LSTM baseline** (`LSTMDetector`, `train_lstm`) — and reported
-  honestly that it modestly **outperforms** the Transformer on the static
-  ROC/PR benchmark (AUROC 0.939 vs. 0.914). This is not hidden or spun;
-  see paper Section 7.6 for the reported explanation and its limits.
-- **SoC-spoofing-only ablation** (tau_max=0) added to isolate eq. (13)'s
-  standalone contribution from eq. (14)'s. Finding: margin-tightening alone
-  already reaches 100% completion under pure SoC attacks at the intensity
-  tested; reconstruction alone can *underperform* doing nothing (no margin
-  buffer to absorb its own estimation error). Reported as found.
-- **tau_cap sensitivity sweep** {0, 0.5, 1, 2} hours — a clean, monotonic
-  reliability/flexibility trade-off, replacing the single tau_cap=0
-  operating point used in round 1.
-- **Coverage sweep redone at 30 seeds** (was 10) — the higher-powered
-  result reverses the earlier, noisier finding: CUSUM now exceeds REB-S at
-  4 of 5 coverage levels tested. Reported as measured.
-- **Scalability extended to 200 EVs** with measured (not estimated)
-  detector inference latency at every size, and hardware/software specs
-  logged.
-- **Full simulation parameter table** added (Table 2 in the paper) so the
-  case study is completely specified, not just described qualitatively.
-- Two references (TranAD, Li & Li) updated to their published venues
-  (VLDB, IEEE Trans. Smart Grid) in place of arXiv preprints.
-- Removed manuscript-development language ("first version of this study",
-  "original design") per reviewer request; abstract trimmed and its
-  detection-comparison claim reworded to be exact rather than favorable.
-
-## Known remaining limitations (see paper Section 7.12 for full discussion)
-- Still synthetic data throughout — not a recognized public test feeder or
-  public EV mobility dataset, and not real utility data.
-- Only 2 re-optimization checkpoints per day, so sub-checkpoint detection
-  latency is still not resolved.
-- BESS degradation cost uses a linear energy-throughput proxy rather than
-  the full piecewise-DoD segments of eq. (6), for MILP tractability.
-- The Transformer, not the LSTM, is used in the operational scheduler
-  (Sections 7.1-7.4) despite the LSTM's edge on the static benchmark — an
-  LSTM-based or hybrid REB-S variant is flagged as future work, not done.
-- No repository/DOI has actually been created yet; the paper's
-  Reproducibility Statement says so plainly rather than promising one.
-
-## Revision scripts (paper Sections VII-L to VII-M, Appendices C–D)
-All scripts below run on top of the core simulator above and reproduce the
-archived results in `results/` exactly (same seeds, deterministic CBC).
 
 | Script | Produces (results/) | Paper |
 |---|---|---|
